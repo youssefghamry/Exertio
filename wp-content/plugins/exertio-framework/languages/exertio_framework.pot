@@ -1,0 +1,4607 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Exertio Framework\n"
+"POT-Creation-Date: 2021-12-22 14:02+0500\n"
+"PO-Revision-Date: 2021-12-22 14:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: functions.php:35 plugin-files/cpt/project.php:1141
+#: plugin-files/cpt/services.php:787
+msgid "Select Attachments"
+msgstr ""
+
+#: functions.php:36
+msgid "Ad Files"
+msgstr ""
+
+#: functions.php:37
+msgid "Select Image"
+msgstr ""
+
+#: functions.php:39
+msgid "You can add max 10 new fields"
+msgstr ""
+
+#: functions.php:40
+msgid "Are your sure?"
+msgstr ""
+
+#: functions.php:41
+msgid "Something went wrong"
+msgstr ""
+
+#: functions.php:42
+msgid "Award Date"
+msgstr ""
+
+#: functions.php:43
+msgid "Award Name"
+msgstr ""
+
+#: functions.php:44
+msgid "Project URL"
+msgstr ""
+
+#: functions.php:45 plugin-files/cpt/disputes.php:42
+msgid "Project Name"
+msgstr ""
+
+#: functions.php:46 plugin-files/cpt/freelancers.php:805
+msgid "Experience Title"
+msgstr ""
+
+#: functions.php:47 plugin-files/cpt/freelancers.php:805
+msgid "Company Name"
+msgstr ""
+
+#: functions.php:48 functions.php:54
+msgid "Start Date"
+msgstr ""
+
+#: functions.php:49 functions.php:55 plugin-files/cpt/freelancers.php:805
+#: plugin-files/cpt/freelancers.php:834
+msgid "End Date"
+msgstr ""
+
+#: functions.php:50 plugin-files/cpt/freelancers.php:805
+#: plugin-files/cpt/freelancers.php:834
+msgid "Leave it empty to set it current job"
+msgstr ""
+
+#: functions.php:51 plugin-files/cpt/freelancers.php:805
+#: plugin-files/cpt/freelancers.php:834 plugin-files/cpt/project.php:254
+msgid "Description"
+msgstr ""
+
+#: functions.php:52 plugin-files/cpt/freelancers.php:834
+msgid "Education Title"
+msgstr ""
+
+#: functions.php:53
+msgid "Institute Name"
+msgstr ""
+
+#: functions.php:56
+msgid "Leave it empty to set it current education"
+msgstr ""
+
+#: functions.php:81 functions.php:103 plugin-files/cpt/freelancers.php:718
+msgid "Skills percentage"
+msgstr ""
+
+#: functions.php:142
+msgid "User Type"
+msgstr ""
+
+#: functions.php:155
+msgid "Freelancer: "
+msgstr ""
+
+#: functions.php:160
+msgid "Employer: "
+msgstr ""
+
+#: functions.php:189
+msgid "Exertio WordPress Theme database update needed ."
+msgstr ""
+
+#: functions.php:190
+msgid ""
+"To use <b>Exertio WordPress Theme</b> propery we must need to update "
+"database for the new features and fixes. Please click on button below to "
+"update it. "
+msgstr ""
+
+#: functions.php:191
+msgid "Update Now"
+msgstr ""
+
+#: functions.php:209
+msgid "Exertio - Freelance Marketplace WordPress Theme "
+msgstr ""
+
+#: functions.php:213
+msgid "Get Started"
+msgstr ""
+
+#: functions.php:215
+msgid ""
+"Docementation will helps you to understand the theme flow and will help you "
+"to setup the theme accordingly. Click the button below to go to the "
+"docementation."
+msgstr ""
+
+#: functions.php:216
+msgid "Docementation"
+msgstr ""
+
+#: functions.php:219
+msgid "Having Issues? Get Support!"
+msgstr ""
+
+#: functions.php:221
+msgid ""
+"If you are facing any issue regarding setting up the theme. You can contact "
+"our support team they will be very happy to assist you."
+msgstr ""
+
+#: functions.php:222
+msgid "Get Theme Support"
+msgstr ""
+
+#: functions.php:225
+msgid "Looking For Customizations?"
+msgstr ""
+
+#: functions.php:226
+msgid ""
+"Looking to add more features in the theme no problem. Our development team "
+"will customize the theme according to your requirnments. Click the link "
+"below to contact us."
+msgstr ""
+
+#: functions.php:227
+msgid "Looking For Customization?"
+msgstr ""
+
+#: functions.php:232
+msgid "by"
+msgstr ""
+
+#: functions.php:232
+msgid "ScriptsBundle"
+msgstr ""
+
+#: functions.php:278
+msgid "Update done"
+msgstr ""
+
+#: inc/basic-function.php:34
+msgid " Verified"
+msgstr ""
+
+#: inc/basic-function.php:64 plugin-files/cpt/company.php:558
+#: plugin-files/cpt/freelancers.php:869
+msgid "Verified"
+msgstr ""
+
+#: inc/basic-function.php:137
+msgid "No Result Found"
+msgstr ""
+
+#: inc/basic-function.php:213 inc/basic-function.php:218
+msgid "Disabled for demo"
+msgstr ""
+
+#: inc/basic-function.php:267
+msgid "Activation email sent."
+msgstr ""
+
+#: inc/basic-function.php:272
+msgid "Activation email is not sent. Please contact admin"
+msgstr ""
+
+#: inc/basic-function.php:290
+msgid "Please register as an employer first"
+msgstr ""
+
+#: inc/basic-function.php:300
+msgid "Please register as a freelancer first"
+msgstr ""
+
+#: inc/crons.php:108 inc/custom-functions.php:2399
+#: plugin-files/cpt/project.php:879
+msgid "Hourly"
+msgstr ""
+
+#: inc/crons.php:112
+msgid "Twice a days"
+msgstr ""
+
+#: inc/crons.php:116
+msgid "Once a days"
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:334
+#: inc/custom-fields/exertio_fields.php:327
+#: inc/custom-fields/exertio_freelancer_fields.php:334
+#: inc/custom-fields/exertio_services_fields.php:334
+msgid "Select Template"
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:337
+#: inc/custom-fields/exertio_fields.php:330
+#: inc/custom-fields/exertio_freelancer_fields.php:337
+#: inc/custom-fields/exertio_services_fields.php:337
+msgid "Select An Option"
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:338
+#: inc/custom-fields/exertio_fields.php:331
+#: inc/custom-fields/exertio_freelancer_fields.php:338
+#: inc/custom-fields/exertio_services_fields.php:338
+msgid "No Template"
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:341
+#: inc/custom-fields/exertio_fields.php:334
+#: inc/custom-fields/exertio_freelancer_fields.php:341
+#: inc/custom-fields/exertio_services_fields.php:341
+msgid "You can assign this template each level category."
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:371
+#: inc/custom-fields/exertio_fields.php:407
+#: inc/custom-fields/exertio_freelancer_fields.php:371
+#: inc/custom-fields/exertio_services_fields.php:414
+msgid "Display in search"
+msgstr ""
+
+#: inc/custom-fields/exertio_employer_fields.php:372
+#: inc/custom-fields/exertio_fields.php:408
+#: inc/custom-fields/exertio_freelancer_fields.php:372
+#: inc/custom-fields/exertio_services_fields.php:415
+msgid "Enable/Disable this field to show in search page."
+msgstr ""
+
+#: inc/custom-fields/exertio_fields.php:369
+#: inc/custom-fields/exertio_fields.php:375
+#: inc/custom-fields/exertio_services_fields.php:376
+msgid "exertio Category Template"
+msgstr ""
+
+#: inc/custom-fields/exertio_fields.php:384
+#: inc/custom-fields/exertio_fields.php:390
+#: inc/custom-fields/exertio_services_fields.php:391
+msgid "exertio Category Template WPML"
+msgstr ""
+
+#: inc/custom-functions.php:206 inc/custom-functions.php:268
+#: inc/custom-functions.php:333 inc/custom-functions.php:388
+#: inc/custom-functions.php:455 plugin-files/pages/completed_services.php:122
+#: plugin-files/pages/notifications.php:400
+#: plugin-files/pages/queued_services.php:129
+#: plugin-files/pages/statements.php:386
+msgid "First"
+msgstr ""
+
+#: inc/custom-functions.php:228 inc/custom-functions.php:290
+#: inc/custom-functions.php:355 inc/custom-functions.php:410
+#: inc/custom-functions.php:477 plugin-files/pages/completed_services.php:144
+#: plugin-files/pages/notifications.php:422
+#: plugin-files/pages/queued_services.php:151
+#: plugin-files/pages/statements.php:408
+msgid "Last"
+msgstr ""
+
+#: inc/custom-functions.php:503 inc/custom-functions.php:537
+msgid "Expired "
+msgstr ""
+
+#: inc/custom-functions.php:507 inc/custom-functions.php:541
+msgid " Days left"
+msgstr ""
+
+#: inc/custom-functions.php:511 inc/custom-functions.php:545
+msgid "Closing Today "
+msgstr ""
+
+#: inc/custom-functions.php:522
+msgid "Never Expire "
+msgstr ""
+
+#: inc/custom-functions.php:588
+msgid "You do not have enough amount in your wallet to assign this project"
+msgstr ""
+
+#: inc/custom-functions.php:617
+msgid "Can not update project status, please contact admin"
+msgstr ""
+
+#: inc/custom-functions.php:651
+msgid "Can not update project logs, please contact admin"
+msgstr ""
+
+#: inc/custom-functions.php:675
+msgid "Project assigned successfully"
+msgstr ""
+
+#: inc/custom-functions.php:683
+msgid "Can not assign project!!! please contact Admin"
+msgstr ""
+
+#: inc/custom-functions.php:744 inc/custom-functions.php:1930
+#: inc/disputes.php:237
+msgid "Message sent"
+msgstr ""
+
+#: inc/custom-functions.php:749 inc/custom-functions.php:1935
+#: inc/disputes.php:242
+msgid "Error!!! Message sending failed."
+msgstr ""
+
+#: inc/custom-functions.php:755 inc/custom-functions.php:1941
+#: inc/disputes.php:248
+msgid "Message field can not be empty"
+msgstr ""
+
+#: inc/custom-functions.php:819
+msgid ""
+"Sorry, only JPG, JPEG, PNG, docx, pptx, xlsx, pdf and zip files are allowed."
+msgstr ""
+
+#: inc/custom-functions.php:827
+msgid "Max allowd attachment size is "
+msgstr ""
+
+#: inc/custom-functions.php:849 inc/utilities.php:1055 inc/utilities.php:2125
+#: inc/utilities.php:2258
+msgid "Attachments uploaded"
+msgstr ""
+
+#: inc/custom-functions.php:877 inc/utilities.php:1085 inc/utilities.php:2287
+msgid "Attachment deleted"
+msgstr ""
+
+#: inc/custom-functions.php:883 inc/utilities.php:1091 inc/utilities.php:2293
+msgid "Error!!! attachment is not deleted"
+msgstr ""
+
+#: inc/custom-functions.php:916
+msgid "second"
+msgstr ""
+
+#: inc/custom-functions.php:917
+msgid "minute"
+msgstr ""
+
+#: inc/custom-functions.php:918
+msgid "hour"
+msgstr ""
+
+#: inc/custom-functions.php:919
+msgid "day"
+msgstr ""
+
+#: inc/custom-functions.php:920
+msgid "month"
+msgstr ""
+
+#: inc/custom-functions.php:921
+msgid "year"
+msgstr ""
+
+#: inc/custom-functions.php:934
+msgid " ago"
+msgstr ""
+
+#: inc/custom-functions.php:938
+msgid "s ago"
+msgstr ""
+
+#: inc/custom-functions.php:992
+msgid "Generating Attachments to Download. Please wait..."
+msgstr ""
+
+#: inc/custom-functions.php:997
+msgid "ZipArchive is not enabled on your server"
+msgstr ""
+
+#: inc/custom-functions.php:1003
+msgid "Error!!! attachment is not available"
+msgstr ""
+
+#: inc/custom-functions.php:1045
+msgid "Please pay created milestones first"
+msgstr ""
+
+#: inc/custom-functions.php:1053
+msgid "Please select project status first"
+msgstr ""
+
+#: inc/custom-functions.php:1101
+msgid "can not mark as complete!!! Please contact admin"
+msgstr ""
+
+#: inc/custom-functions.php:1155
+msgid "Final milestone"
+msgstr ""
+
+#: inc/custom-functions.php:1180
+msgid "Please provide reward/tip amount or disable it."
+msgstr ""
+
+#: inc/custom-functions.php:1190
+msgid "Please recharge your wallet to pay reward or tip"
+msgstr ""
+
+#: inc/custom-functions.php:1215
+msgid "numeric amount only"
+msgstr ""
+
+#: inc/custom-functions.php:1253 inc/custom-functions.php:2078
+msgid "Marked as completed"
+msgstr ""
+
+#: inc/custom-functions.php:1258
+msgid "Error!!! project log not updated"
+msgstr ""
+
+#: inc/custom-functions.php:1266
+msgid "Error!!! Project completion not updated."
+msgstr ""
+
+#: inc/custom-functions.php:1284 inc/custom-functions.php:1353
+msgid "can not mark as canceled!!! Please contact admin"
+msgstr ""
+
+#: inc/custom-functions.php:1306 inc/custom-functions.php:1363
+msgid "Project canceled"
+msgstr ""
+
+#: inc/custom-functions.php:1312
+msgid "Project Status Error."
+msgstr ""
+
+#: inc/custom-functions.php:1318 inc/custom-functions.php:1755
+#: inc/utilities.php:2647 inc/utilities.php:2663 inc/utilities.php:2851
+#: inc/utilities.php:3396 inc/utilities.php:3718 inc/utilities.php:3879
+#: inc/utilities.php:3908
+msgid "Error!!! please contact Admin"
+msgstr ""
+
+#: inc/custom-functions.php:1369 inc/custom-functions.php:1481
+msgid "Project ID error"
+msgstr ""
+
+#: inc/custom-functions.php:1398 inc/custom-functions.php:2229
+msgid " review"
+msgstr ""
+
+#: inc/custom-functions.php:1401 inc/custom-functions.php:2187
+#: inc/custom-functions.php:2232
+msgid " reviews"
+msgstr ""
+
+#: inc/custom-functions.php:1447 inc/custom-functions.php:2191
+#: inc/custom-functions.php:2277
+msgid "No Reviews"
+msgstr ""
+
+#: inc/custom-functions.php:1468
+msgid "Already in your saved projects"
+msgstr ""
+
+#: inc/custom-functions.php:1475
+msgid "Added to your saved projects"
+msgstr ""
+
+#: inc/custom-functions.php:1499
+msgid "Removed from saved projects"
+msgstr ""
+
+#: inc/custom-functions.php:1504 inc/custom-functions.php:1563
+#: inc/custom-functions.php:2584 inc/custom-functions.php:2640
+#: inc/utilities.php:1979
+msgid "There is some problem, please try again later"
+msgstr ""
+
+#: inc/custom-functions.php:1526
+msgid "Already in your saved services"
+msgstr ""
+
+#: inc/custom-functions.php:1533
+msgid "Added to your saved services"
+msgstr ""
+
+#: inc/custom-functions.php:1539
+msgid "Service ID error"
+msgstr ""
+
+#: inc/custom-functions.php:1558
+msgid "Removed from saved services"
+msgstr ""
+
+#: inc/custom-functions.php:1598
+msgid "This service has been expired"
+msgstr ""
+
+#: inc/custom-functions.php:1652
+msgid "Please recharge your wallet to purchase this service"
+msgstr ""
+
+#: inc/custom-functions.php:1724
+msgid "Can not update service logs, please contact admin"
+msgstr ""
+
+#: inc/custom-functions.php:1742
+msgid "Service purchased successfully"
+msgstr ""
+
+#: inc/custom-functions.php:1748
+msgid "Error!!! could not purchase service."
+msgstr ""
+
+#: inc/custom-functions.php:1761
+msgid "You can not purchase your own service"
+msgstr ""
+
+#: inc/custom-functions.php:2083
+msgid "Error in saving service logs"
+msgstr ""
+
+#: inc/custom-functions.php:2091
+msgid "Error in saving service review"
+msgstr ""
+
+#: inc/custom-functions.php:2098 inc/custom-functions.php:2152
+msgid "Error in updating service status"
+msgstr ""
+
+#: inc/custom-functions.php:2105 inc/custom-functions.php:2158
+#: inc/utilities.php:535 inc/utilities.php:811 inc/utilities.php:4014
+#: inc/utilities.php:4110
+msgid "You are not allowed to do that"
+msgstr ""
+
+#: inc/custom-functions.php:2147
+msgid "Marked as canceled"
+msgstr ""
+
+#: inc/custom-functions.php:2317
+msgid " Orders in queue"
+msgstr ""
+
+#: inc/custom-functions.php:2321
+msgid " Order in queue"
+msgstr ""
+
+#: inc/custom-functions.php:2399
+msgid "For "
+msgstr ""
+
+#: inc/custom-functions.php:2399
+msgid " hours total will be  "
+msgstr ""
+
+#: inc/custom-functions.php:2403 plugin-files/cpt/project.php:880
+msgid "Fixed"
+msgstr ""
+
+#: inc/custom-functions.php:2463
+msgid "Duration: "
+msgstr ""
+
+#: inc/custom-functions.php:2467
+msgid "Level: "
+msgstr ""
+
+#: inc/custom-functions.php:2471
+msgid "Location: "
+msgstr ""
+
+#: inc/custom-functions.php:2479
+msgid "View Detail"
+msgstr ""
+
+#: inc/custom-functions.php:2547 inc/custom-functions.php:2603
+msgid "You are already following"
+msgstr ""
+
+#: inc/custom-functions.php:2554 inc/custom-functions.php:2610
+msgid "Added to your following list"
+msgstr ""
+
+#: inc/custom-functions.php:2560 inc/custom-functions.php:2616
+msgid "ID error"
+msgstr ""
+
+#: inc/custom-functions.php:2579 inc/custom-functions.php:2635
+msgid "Removed from following list"
+msgstr ""
+
+#: inc/custom-functions.php:2728
+msgid "Settings saved"
+msgstr ""
+
+#: inc/custom-functions.php:2767 inc/custom-functions.php:2794
+#: inc/custom-functions.php:2811 inc/custom-functions.php:2817
+#: inc/custom-functions.php:2836 inc/custom-functions.php:2843
+msgid "User selection saved"
+msgstr ""
+
+#: inc/custom-functions.php:2854 inc/utilities.php:12 inc/utilities.php:4169
+#: inc/woo-employer-packages.php:331 inc/woo-freelancer-packages.php:332
+msgid "Please login first"
+msgstr ""
+
+#: inc/custom-statuses.php:6 inc/custom-statuses.php:58
+msgid "In Review"
+msgstr ""
+
+#: inc/custom-statuses.php:12
+#, php-format
+msgid "In Review <span class=\"count\">(%s)</span>"
+msgid_plural "In Review <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-statuses.php:16 inc/custom-statuses.php:22
+#: inc/custom-statuses.php:66 inc/custom-statuses.php:133
+msgid "Ongoing"
+msgstr ""
+
+#: inc/custom-statuses.php:22 inc/custom-statuses.php:32
+#: inc/custom-statuses.php:41
+#, php-format
+msgid "<span class=\"count\">(%s)</span>"
+msgid_plural "<span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-statuses.php:26 inc/custom-statuses.php:32
+#: inc/custom-statuses.php:73 inc/custom-statuses.php:158
+msgid "Completed"
+msgstr ""
+
+#: inc/custom-statuses.php:35 inc/custom-statuses.php:41
+#: inc/custom-statuses.php:80 inc/custom-statuses.php:181
+msgid "Canceled"
+msgstr ""
+
+#: inc/custom-statuses.php:104 inc/custom-statuses.php:108
+msgid "In Review."
+msgstr ""
+
+#: inc/custom-statuses.php:128
+msgid "Ongoing."
+msgstr ""
+
+#: inc/custom-statuses.php:153
+msgid "Completed."
+msgstr ""
+
+#: inc/custom-statuses.php:176
+msgid "Canceled."
+msgstr ""
+
+#: inc/disputes.php:17
+msgid "Select select project first"
+msgstr ""
+
+#: inc/disputes.php:17
+msgid "Select project"
+msgstr ""
+
+#: inc/disputes.php:143
+msgid "Dispute not created"
+msgstr ""
+
+#: inc/disputes.php:157
+msgid "Dispute Created"
+msgstr ""
+
+#: inc/disputes.php:164
+msgid "Dispute already created"
+msgstr ""
+
+#: inc/disputes.php:171
+msgid "fields can not be empty"
+msgstr ""
+
+#: inc/disputes.php:177
+msgid "Dispute can only be created on Ongoing, Completed or canceled projects"
+msgstr ""
+
+#: inc/payouts.php:28 inc/payouts.php:43 inc/payouts.php:60
+msgid "Payout detail updated"
+msgstr ""
+
+#: inc/payouts.php:65
+msgid "Payment method detail error"
+msgstr ""
+
+#: inc/payouts.php:169
+msgid "Please provide numeric value"
+msgstr ""
+
+#: inc/payouts.php:176
+msgid "You have "
+msgstr ""
+
+#: inc/payouts.php:176
+msgid " to payout"
+msgstr ""
+
+#: inc/payouts.php:182
+msgid "Minimum Payout amount is "
+msgstr ""
+
+#: inc/payouts.php:196
+msgid "Error while creating payout. Please contact Admin"
+msgstr ""
+
+#: inc/payouts.php:223
+msgid "Payout created"
+msgstr ""
+
+#: inc/payouts.php:231
+msgid "Please select default payout method first."
+msgstr ""
+
+#: inc/payouts.php:261
+msgid "After "
+msgstr ""
+
+#: inc/utilities.php:20
+msgid "Please login first. We will redirect you back here."
+msgstr ""
+
+#: inc/utilities.php:109
+msgid "Username already exist"
+msgstr ""
+
+#: inc/utilities.php:145
+msgid "Registration successfull. Redirecting...."
+msgstr ""
+
+#: inc/utilities.php:152
+msgid "Email already exist, please try other one."
+msgstr ""
+
+#: inc/utilities.php:355
+msgid "Your account is not verified yet."
+msgstr ""
+
+#: inc/utilities.php:365
+msgid "Login successful. Redirecting...."
+msgstr ""
+
+#: inc/utilities.php:371
+msgid "Invalid email or password."
+msgstr ""
+
+#: inc/utilities.php:470
+msgid "Please type your e-mail address."
+msgstr ""
+
+#: inc/utilities.php:475
+msgid "Please enter a valid e-mail address."
+msgstr ""
+
+#: inc/utilities.php:479
+msgid "This email address does not exist on website."
+msgstr ""
+
+#: inc/utilities.php:494
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: inc/utilities.php:524
+msgid "Please choose a password with at least 3-12 characters."
+msgstr ""
+
+#: inc/utilities.php:530
+msgid ""
+"Your password has been changed. You can now log in with your new password."
+msgstr ""
+
+#: inc/utilities.php:541
+msgid "User id does not exist. Please contact admin."
+msgstr ""
+
+#: inc/utilities.php:607 inc/utilities.php:1534 inc/utilities.php:3175
+msgid "Sorry, only JPG, JPEG, PNG files are allowed."
+msgstr ""
+
+#: inc/utilities.php:614 inc/utilities.php:3182
+msgid "Max allowd image size is "
+msgstr ""
+
+#: inc/utilities.php:645 inc/utilities.php:3209
+msgid "Image changed Successfully"
+msgstr ""
+
+#: inc/utilities.php:668
+msgid "Image Removed"
+msgstr ""
+
+#: inc/utilities.php:672
+msgid "Something went wrong!!!"
+msgstr ""
+
+#: inc/utilities.php:711
+msgid "Data is not saved"
+msgstr ""
+
+#: inc/utilities.php:805 inc/utilities.php:1877
+msgid "Profile updated"
+msgstr ""
+
+#: inc/utilities.php:837
+msgid "All fields are required."
+msgstr ""
+
+#: inc/utilities.php:842
+msgid "Sorry, you can not set the same password again"
+msgstr ""
+
+#: inc/utilities.php:847
+msgid "New password Mismatched"
+msgstr ""
+
+#: inc/utilities.php:855
+msgid "Password changed successfully."
+msgstr ""
+
+#: inc/utilities.php:859
+msgid "Wrong current password"
+msgstr ""
+
+#: inc/utilities.php:880
+msgid "Admin can not delete his account."
+msgstr ""
+
+#: inc/utilities.php:907
+msgid "Account deleted successfully"
+msgstr ""
+
+#: inc/utilities.php:976
+msgid ""
+"Sorry, only JPG, JPEG, PNG, docx, pptx, xlsx, SVG and pdf files are allowed."
+msgstr ""
+
+#: inc/utilities.php:991 inc/utilities.php:2062
+msgid "Attachment upload limit reached"
+msgstr ""
+
+#: inc/utilities.php:1002 inc/utilities.php:2073 inc/utilities.php:2223
+msgid "Max allowed attachment size is "
+msgstr ""
+
+#: inc/utilities.php:1027 inc/utilities.php:2097
+msgid "File Uploaded"
+msgstr ""
+
+#: inc/utilities.php:1052 inc/utilities.php:2122
+msgid "file size:"
+msgstr ""
+
+#: inc/utilities.php:1052 inc/utilities.php:2122
+msgid " Kb"
+msgstr ""
+
+#: inc/utilities.php:1118 inc/utilities.php:2323
+msgid "Please verifiy your email first"
+msgstr ""
+
+#: inc/utilities.php:1179
+msgid "Error!!! Please contact admin"
+msgstr ""
+
+#: inc/utilities.php:1402
+msgid "Project posted successfully"
+msgstr ""
+
+#: inc/utilities.php:1540
+msgid "Max allowd image size is 300KB"
+msgstr ""
+
+#: inc/utilities.php:1565
+msgid "Image uploaded"
+msgstr ""
+
+#: inc/utilities.php:1608
+msgid "Profile not saved. Please contact admin"
+msgstr ""
+
+#: inc/utilities.php:1727
+msgid "Skill percentage can not be greater then 100"
+msgstr ""
+
+#: inc/utilities.php:1939
+msgid "Addon not saved. Please contact admin"
+msgstr ""
+
+#: inc/utilities.php:1955
+msgid "Addon Created"
+msgstr ""
+
+#: inc/utilities.php:1974
+msgid "Addon removed successfully"
+msgstr ""
+
+#: inc/utilities.php:2047
+msgid "Sorry, only JPG, JPEG, and PNG files are allowed."
+msgstr ""
+
+#: inc/utilities.php:2197
+msgid "Sorry, only JPG, JPEG, PNG, files are allowed."
+msgstr ""
+
+#: inc/utilities.php:2217
+msgid "Attachments uploaded limit reached"
+msgstr ""
+
+#: inc/utilities.php:2231
+msgid "Sorry, this type of image/file are not allowed."
+msgstr ""
+
+#: inc/utilities.php:2249
+msgid " file size:"
+msgstr ""
+
+#: inc/utilities.php:2374
+msgid "Data did not save. Please contact admin"
+msgstr ""
+
+#: inc/utilities.php:2609
+msgid "New service has been created"
+msgstr ""
+
+#: inc/utilities.php:2613
+msgid "Service updated"
+msgstr ""
+
+#: inc/utilities.php:2642
+msgid "Service removed"
+msgstr ""
+
+#: inc/utilities.php:2653
+msgid "Service Activated"
+msgstr ""
+
+#: inc/utilities.php:2657
+msgid "Service Canceled"
+msgstr ""
+
+#: inc/utilities.php:2687
+msgid "Project Already Expired"
+msgstr ""
+
+#: inc/utilities.php:2704 inc/utilities.php:2871
+msgid "Please purchase package to send proposal"
+msgstr ""
+
+#: inc/utilities.php:2713
+msgid "Project is expired"
+msgstr ""
+
+#: inc/utilities.php:2775 inc/utilities.php:3840
+msgid "Please load balance in your wallet"
+msgstr ""
+
+#: inc/utilities.php:2845
+msgid "Proposal sent successfully"
+msgstr ""
+
+#: inc/utilities.php:2857
+msgid "You have already sent a proposal."
+msgstr ""
+
+#: inc/utilities.php:2865
+msgid "You can not send a proposal to your project"
+msgstr ""
+
+#: inc/utilities.php:3042
+msgid "Verification document did not sent"
+msgstr ""
+
+#: inc/utilities.php:3067
+msgid "Verification detail sent"
+msgstr ""
+
+#: inc/utilities.php:3104
+msgid "verification revoked"
+msgstr ""
+
+#: inc/utilities.php:3109
+msgid "Verification document did not revoke"
+msgstr ""
+
+#: inc/utilities.php:3229
+msgid "You have already reported"
+msgstr ""
+
+#: inc/utilities.php:3253
+msgid "Error while reporting. Please contact Admin"
+msgstr ""
+
+#: inc/utilities.php:3279
+msgid "Reported successfully"
+msgstr ""
+
+#: inc/utilities.php:3287
+msgid "Please login to report"
+msgstr ""
+
+#: inc/utilities.php:3361 inc/utilities.php:3753
+msgid "Error!! Please contact Admin"
+msgstr ""
+
+#: inc/utilities.php:3375
+msgid "Proposal Deleted"
+msgstr ""
+
+#: inc/utilities.php:3380
+msgid "Ongoing, Completed or Canceled project proposals can not be deleted"
+msgstr ""
+
+#: inc/utilities.php:3386 inc/utilities.php:3708 inc/utilities.php:3898
+msgid "You are not allowed to do that."
+msgstr ""
+
+#: inc/utilities.php:3429
+msgid "Error!!! Please contact admin "
+msgstr ""
+
+#: inc/utilities.php:3452
+msgid "Edit Proposal on \" "
+msgstr ""
+
+#: inc/utilities.php:3466
+msgid "Your Price"
+msgstr ""
+
+#: inc/utilities.php:3468 inc/utilities.php:3480
+msgid "Provide your price in numbers only"
+msgstr ""
+
+#: inc/utilities.php:3478
+msgid "Your hourly price"
+msgstr ""
+
+#: inc/utilities.php:3493
+msgid "Days to complete"
+msgstr ""
+
+#: inc/utilities.php:3495
+msgid "Dasy to complete in numbers only"
+msgstr ""
+
+#: inc/utilities.php:3497
+msgid "Days"
+msgstr ""
+
+#: inc/utilities.php:3506 plugin-files/cpt/project.php:897
+msgid "Estimated Hours"
+msgstr ""
+
+#: inc/utilities.php:3508
+msgid "Hours to complete in numbers only"
+msgstr ""
+
+#: inc/utilities.php:3510
+msgid "Hours"
+msgstr ""
+
+#: inc/utilities.php:3528
+msgid "Estimated Total Cost"
+msgstr ""
+
+#: inc/utilities.php:3529
+msgid "The total project cost."
+msgstr ""
+
+#: inc/utilities.php:3546
+msgid "Service Fee"
+msgstr ""
+
+#: inc/utilities.php:3547
+msgid "The service fee that will be deducted from your proposed amount."
+msgstr ""
+
+#: inc/utilities.php:3551
+msgid "Your Earning"
+msgstr ""
+
+#: inc/utilities.php:3552
+msgid "Total amount you will earn."
+msgstr ""
+
+#: inc/utilities.php:3567
+msgid "Price breakdown"
+msgstr ""
+
+#: inc/utilities.php:3569
+msgid "Cover Letter"
+msgstr ""
+
+#: inc/utilities.php:3670
+msgid "Please check this box to proceed."
+msgstr ""
+
+#: inc/utilities.php:3677
+msgid "I agree to the "
+msgstr ""
+
+#: inc/utilities.php:3677
+msgid "terms and conditions"
+msgstr ""
+
+#: inc/utilities.php:3678
+msgid "Edit & Save Proposal"
+msgstr ""
+
+#: inc/utilities.php:3691
+msgid "Edit my proposal generated"
+msgstr ""
+
+#: inc/utilities.php:3696 inc/utilities.php:3886
+msgid "Ongoing, Completed or Canceled project proposals can not be edited"
+msgstr ""
+
+#: inc/utilities.php:3702 inc/utilities.php:3892
+msgid "Project Expired"
+msgstr ""
+
+#: inc/utilities.php:3874
+msgid "Proposal edited successfully"
+msgstr ""
+
+#: inc/utilities.php:3960
+msgid "Project total amount is "
+msgstr ""
+
+#: inc/utilities.php:3984
+msgid "Remaining amount is "
+msgstr ""
+
+#: inc/utilities.php:4007
+msgid "Milestone created"
+msgstr ""
+
+#: inc/utilities.php:4020 inc/utilities.php:4116
+msgid "Milestones can only be created for ongoing projects."
+msgstr ""
+
+#: inc/utilities.php:4104
+msgid "Milestone Paid"
+msgstr ""
+
+#: inc/utilities.php:4142
+msgid "You cannot invite yourself"
+msgstr ""
+
+#: inc/utilities.php:4157
+msgid "Invitation Sent"
+msgstr ""
+
+#: inc/utilities.php:4163
+msgid "Really sorry about that"
+msgstr ""
+
+#: inc/woo-employer-packages.php:75
+msgid "Add Package Detail"
+msgstr ""
+
+#: inc/woo-employer-packages.php:90
+msgid "Number of Simple Project Allowed"
+msgstr ""
+
+#: inc/woo-employer-packages.php:97 inc/woo-employer-packages.php:120
+#: plugin-files/cpt/addons.php:93 plugin-files/cpt/services.php:659
+msgid "Integer value only"
+msgstr ""
+
+#: inc/woo-employer-packages.php:101
+msgid "Simple Project Expiry"
+msgstr ""
+
+#: inc/woo-employer-packages.php:108 inc/woo-employer-packages.php:131
+msgid "In days only"
+msgstr ""
+
+#: inc/woo-employer-packages.php:113
+msgid "Number of Featured Projects Allowed"
+msgstr ""
+
+#: inc/woo-employer-packages.php:124
+msgid "Featured Projects Expiry"
+msgstr ""
+
+#: inc/woo-employer-packages.php:135
+msgid "Expiry date for package"
+msgstr ""
+
+#: inc/woo-employer-packages.php:142
+msgid "Integer value only in days only"
+msgstr ""
+
+#: inc/woo-employer-packages.php:148 inc/woo-freelancer-packages.php:148
+#: plugin-files/exertio-widgets/exertio-widgets.php:2359
+#: plugin-files/exertio-widgets/exertio-widgets.php:2361
+msgid "Profile Featured"
+msgstr ""
+
+#: inc/woo-employer-packages.php:155 inc/woo-freelancer-packages.php:155
+msgid "Select option"
+msgstr ""
+
+#: inc/woo-employer-packages.php:156 inc/woo-employer-packages.php:172
+#: inc/woo-freelancer-packages.php:156 inc/woo-freelancer-packages.php:171
+msgid "YES"
+msgstr ""
+
+#: inc/woo-employer-packages.php:157 inc/woo-employer-packages.php:173
+#: inc/woo-freelancer-packages.php:157 inc/woo-freelancer-packages.php:172
+msgid "NO"
+msgstr ""
+
+#: inc/woo-employer-packages.php:159
+msgid "This option will allow employers to be featured on website"
+msgstr ""
+
+#: inc/woo-employer-packages.php:164 inc/woo-freelancer-packages.php:163
+msgid "Mark as free package"
+msgstr ""
+
+#: inc/woo-employer-packages.php:171 inc/woo-freelancer-packages.php:170
+msgid "Mark package free"
+msgstr ""
+
+#: inc/woo-employer-packages.php:175 inc/woo-freelancer-packages.php:174
+msgid ""
+"If you mark this package free then the user can purchase this package once. "
+"Most probably this will be assigned at the time of registration."
+msgstr ""
+
+#: inc/woo-employer-packages.php:304 inc/woo-freelancer-packages.php:305
+msgid "You can not purchase free package twice."
+msgstr ""
+
+#: inc/woo-employer-packages.php:317 inc/woo-freelancer-packages.php:318
+msgid "Redirecting to cart page"
+msgstr ""
+
+#: inc/woo-employer-packages.php:323 inc/woo-freelancer-packages.php:324
+#: inc/woo-functions.php:141 inc/woo-functions.php:347
+msgid "WooCommerce plugin is not active"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:68
+msgid "Freelancer Package Detail"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:82
+msgid "Number of Projects Credits"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:89
+msgid ""
+"Project credits means on how many propsals a freelancer is allowed to send. "
+"Give -1 for unlimited"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:93
+msgid "Number of Services Allowed"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:100
+msgid "Integer value only. Give -1 for unlimited services"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:104
+msgid "Service Expiry"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:111 inc/woo-freelancer-packages.php:133
+msgid "In days only. Give -1 value if you want it to never expire"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:115
+msgid "Number of Featured Services Allowed"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:122
+msgid "Integer value only. Give -1 for unlimited featured services"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:126 plugin-files/cpt/freelancers.php:1231
+msgid "Featured Services Expiry"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:137
+msgid "Expiry Date for Package"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:144
+msgid ""
+"Integer value in days only. Give -1 value if you want it to never expire"
+msgstr ""
+
+#: inc/woo-freelancer-packages.php:159
+msgid "This option will allow Freelancers to be featured on your website."
+msgstr ""
+
+#: inc/woo-functions.php:96
+msgid "Select amount to deposit"
+msgstr ""
+
+#: inc/woo-functions.php:134 inc/woo-functions.php:340
+msgid "Redirecting to payment page"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:7 plugin-files/cpt/addons.php:8
+#: plugin-files/cpt/addons.php:9 plugin-files/cpt/addons.php:10
+msgid "Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:11 plugin-files/cpt/addons.php:12
+msgid "Add New Addon"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:13
+msgid "New Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:14
+msgid "Edit Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:15
+msgid "View Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:16
+msgid "All Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:17
+msgid "Search Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:18
+msgid "No Addon Found."
+msgstr ""
+
+#: plugin-files/cpt/addons.php:37 plugin-files/cpt/disputes.php:43
+#: plugin-files/cpt/project.php:55 plugin-files/cpt/services.php:45
+msgid "Price"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:38 plugin-files/cpt/company.php:45
+#: plugin-files/cpt/disputes.php:44 plugin-files/cpt/freelancers.php:44
+#: plugin-files/cpt/payouts.php:44 plugin-files/cpt/project.php:58
+#: plugin-files/cpt/services.php:46
+msgid "Author"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:39 plugin-files/cpt/disputes.php:45
+#: plugin-files/cpt/payouts.php:45 plugin-files/cpt/project.php:59
+#: plugin-files/cpt/report.php:76 plugin-files/cpt/services.php:47
+msgid "Date"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:71
+msgid "Add Addons Detail"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:86 plugin-files/cpt/addons.php:92
+msgid "Addons Price"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:97
+msgid "Assign Addons"
+msgstr ""
+
+#: plugin-files/cpt/addons.php:114
+msgid ""
+"If you select a user from this list it will assign this addons to the "
+"selected user."
+msgstr ""
+
+#: plugin-files/cpt/company.php:7 plugin-files/cpt/company.php:8
+#: plugin-files/cpt/company.php:9 plugin-files/cpt/company.php:10
+msgid "Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:11 plugin-files/cpt/company.php:12
+msgid "Add New Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:13
+msgid "New Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:14
+msgid "Edit Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:15
+msgid "View Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:16
+msgid "All Employers"
+msgstr ""
+
+#: plugin-files/cpt/company.php:17
+msgid "Search Employer"
+msgstr ""
+
+#: plugin-files/cpt/company.php:18
+msgid "No Employer Found."
+msgstr ""
+
+#: plugin-files/cpt/company.php:66 plugin-files/cpt/company.php:78
+msgid "Departments"
+msgstr ""
+
+#: plugin-files/cpt/company.php:67
+msgid "Search Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:68
+msgid "Popular Departments"
+msgstr ""
+
+#: plugin-files/cpt/company.php:69
+msgid "All Departments"
+msgstr ""
+
+#: plugin-files/cpt/company.php:70
+msgid "Edit Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:71
+msgid "Update Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:72
+msgid "Add New Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:73
+msgid "New Department Name"
+msgstr ""
+
+#: plugin-files/cpt/company.php:74
+msgid "Separate Departments with commas"
+msgstr ""
+
+#: plugin-files/cpt/company.php:75
+msgid "Add or remove Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:76
+msgid "Choose from the most used Departments"
+msgstr ""
+
+#: plugin-files/cpt/company.php:77
+msgid "No Department found."
+msgstr ""
+
+#: plugin-files/cpt/company.php:93 plugin-files/cpt/company.php:105
+msgid "No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:94
+msgid "Search No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:95
+msgid "Popular No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:96
+msgid "All No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:97
+msgid "Edit No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:98
+msgid "Update No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:99
+msgid "Add New No. of Employee"
+msgstr ""
+
+#: plugin-files/cpt/company.php:100
+msgid "New No. of Employee Name"
+msgstr ""
+
+#: plugin-files/cpt/company.php:101
+msgid "Separate No. of Employees with commas"
+msgstr ""
+
+#: plugin-files/cpt/company.php:102
+msgid "Add or remove No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:103
+msgid "Choose from the most used No. of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:104
+msgid "No No. of Employee found."
+msgstr ""
+
+#: plugin-files/cpt/company.php:118 plugin-files/cpt/company.php:130
+#: plugin-files/cpt/freelancers.php:114 plugin-files/cpt/freelancers.php:126
+#: plugin-files/cpt/project.php:330 plugin-files/cpt/project.php:342
+#: plugin-files/cpt/services.php:170 plugin-files/cpt/services.php:182
+msgid "Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:119 plugin-files/cpt/freelancers.php:115
+#: plugin-files/cpt/project.php:331 plugin-files/cpt/services.php:171
+msgid "Search Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:120 plugin-files/cpt/freelancers.php:116
+#: plugin-files/cpt/project.php:332 plugin-files/cpt/services.php:172
+msgid "Popular Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:121 plugin-files/cpt/freelancers.php:117
+#: plugin-files/cpt/project.php:333 plugin-files/cpt/services.php:173
+msgid "All Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:122 plugin-files/cpt/freelancers.php:118
+#: plugin-files/cpt/project.php:334 plugin-files/cpt/services.php:174
+msgid "Edit Location"
+msgstr ""
+
+#: plugin-files/cpt/company.php:123 plugin-files/cpt/freelancers.php:119
+#: plugin-files/cpt/project.php:335 plugin-files/cpt/services.php:175
+msgid "Update Location"
+msgstr ""
+
+#: plugin-files/cpt/company.php:124 plugin-files/cpt/freelancers.php:120
+#: plugin-files/cpt/project.php:336 plugin-files/cpt/services.php:176
+msgid "Add New Location"
+msgstr ""
+
+#: plugin-files/cpt/company.php:125 plugin-files/cpt/freelancers.php:121
+#: plugin-files/cpt/project.php:337 plugin-files/cpt/services.php:177
+msgid "New Locations Name"
+msgstr ""
+
+#: plugin-files/cpt/company.php:126 plugin-files/cpt/freelancers.php:122
+#: plugin-files/cpt/project.php:338 plugin-files/cpt/services.php:178
+msgid "Separate Locations with commas"
+msgstr ""
+
+#: plugin-files/cpt/company.php:127 plugin-files/cpt/freelancers.php:123
+#: plugin-files/cpt/project.php:339 plugin-files/cpt/services.php:179
+msgid "Add or remove Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:128 plugin-files/cpt/freelancers.php:124
+#: plugin-files/cpt/project.php:340 plugin-files/cpt/services.php:180
+msgid "Choose from the most used Locations"
+msgstr ""
+
+#: plugin-files/cpt/company.php:129 plugin-files/cpt/freelancers.php:125
+#: plugin-files/cpt/project.php:341 plugin-files/cpt/services.php:181
+msgid "No Location found."
+msgstr ""
+
+#: plugin-files/cpt/company.php:181 plugin-files/cpt/company.php:208
+#: plugin-files/cpt/freelancers.php:253 plugin-files/cpt/freelancers.php:280
+#: plugin-files/cpt/project.php:390 plugin-files/cpt/project.php:417
+#: plugin-files/cpt/project.php:536 plugin-files/cpt/project.php:563
+#: plugin-files/cpt/services.php:391 plugin-files/cpt/services.php:418
+msgid "Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:185 plugin-files/cpt/company.php:219
+#: plugin-files/cpt/freelancers.php:257 plugin-files/cpt/freelancers.php:291
+#: plugin-files/cpt/project.php:394 plugin-files/cpt/project.php:428
+#: plugin-files/cpt/project.php:540 plugin-files/cpt/project.php:574
+#: plugin-files/cpt/services.php:395 plugin-files/cpt/services.php:429
+msgid "Add Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:186 plugin-files/cpt/company.php:220
+#: plugin-files/cpt/freelancers.php:258 plugin-files/cpt/freelancers.php:292
+#: plugin-files/cpt/project.php:395 plugin-files/cpt/project.php:429
+#: plugin-files/cpt/project.php:541 plugin-files/cpt/project.php:575
+#: plugin-files/cpt/services.php:396 plugin-files/cpt/services.php:430
+msgid "Remove Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:247 plugin-files/cpt/freelancers.php:319
+#: plugin-files/cpt/project.php:456 plugin-files/cpt/project.php:602
+#: plugin-files/cpt/services.php:309 plugin-files/cpt/services.php:458
+msgid "Insert"
+msgstr ""
+
+#: plugin-files/cpt/company.php:311
+msgid "Add Employer Detail"
+msgstr ""
+
+#: plugin-files/cpt/company.php:340
+msgid "Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:349
+msgid "Select Department"
+msgstr ""
+
+#: plugin-files/cpt/company.php:363 plugin-files/cpt/company.php:444
+#: plugin-files/cpt/freelancers.php:486 plugin-files/cpt/freelancers.php:517
+#: plugin-files/cpt/freelancers.php:562 plugin-files/cpt/project.php:815
+#: plugin-files/cpt/project.php:858 plugin-files/cpt/project.php:926
+#: plugin-files/cpt/project.php:1021 plugin-files/cpt/project.php:1051
+#: plugin-files/cpt/project.php:1081 plugin-files/cpt/services.php:571
+#: plugin-files/cpt/services.php:615
+msgid "No, values available. Please consider adding values first"
+msgstr ""
+
+#: plugin-files/cpt/company.php:371 plugin-files/cpt/freelancers.php:525
+#: plugin-files/cpt/project.php:821 plugin-files/cpt/services.php:579
+msgid "Custom Fields"
+msgstr ""
+
+#: plugin-files/cpt/company.php:386 plugin-files/cpt/freelancers.php:429
+msgid "Tagline"
+msgstr ""
+
+#: plugin-files/cpt/company.php:392 plugin-files/cpt/freelancers.php:435
+msgid " Tagline"
+msgstr ""
+
+#: plugin-files/cpt/company.php:393
+msgid "Employer Tagline will be here"
+msgstr ""
+
+#: plugin-files/cpt/company.php:398 plugin-files/cpt/freelancers.php:441
+msgid "Display Name"
+msgstr ""
+
+#: plugin-files/cpt/company.php:404 plugin-files/cpt/freelancers.php:447
+msgid " Display Name"
+msgstr ""
+
+#: plugin-files/cpt/company.php:405 plugin-files/cpt/freelancers.php:448
+msgid "This will be visible on website"
+msgstr ""
+
+#: plugin-files/cpt/company.php:410 plugin-files/cpt/freelancers.php:453
+#: plugin-files/cpt/verification.php:69
+msgid "Contact Number"
+msgstr ""
+
+#: plugin-files/cpt/company.php:416 plugin-files/cpt/freelancers.php:459
+msgid "Phone number"
+msgstr ""
+
+#: plugin-files/cpt/company.php:421
+msgid "No of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:429
+msgid "Select number of Employees"
+msgstr ""
+
+#: plugin-files/cpt/company.php:447
+msgid "Mention how many employees does this employer have"
+msgstr ""
+
+#: plugin-files/cpt/company.php:452 plugin-files/cpt/freelancers.php:597
+#: plugin-files/cpt/project.php:1090 plugin-files/cpt/services.php:736
+msgid "Location"
+msgstr ""
+
+#: plugin-files/cpt/company.php:467 plugin-files/cpt/freelancers.php:591
+#: plugin-files/cpt/freelancers.php:608 plugin-files/cpt/project.php:957
+#: plugin-files/cpt/project.php:989 plugin-files/cpt/project.php:1101
+#: plugin-files/cpt/services.php:645 plugin-files/cpt/services.php:688
+#: plugin-files/cpt/services.php:746
+msgid "No values available. Please consider adding values first"
+msgstr ""
+
+#: plugin-files/cpt/company.php:474 plugin-files/cpt/freelancers.php:615
+msgid "Profile Picture"
+msgstr ""
+
+#: plugin-files/cpt/company.php:483 plugin-files/cpt/company.php:505
+#: plugin-files/cpt/freelancers.php:624 plugin-files/cpt/freelancers.php:646
+#: plugin-files/cpt/project.php:1126 plugin-files/cpt/project.php:1130
+#: plugin-files/cpt/services.php:772 plugin-files/cpt/services.php:776
+msgid "attachment"
+msgstr ""
+
+#: plugin-files/cpt/company.php:488 plugin-files/cpt/freelancers.php:629
+msgid "Select Profile Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:490 plugin-files/cpt/freelancers.php:631
+msgid "Select profile picture to show publicly."
+msgstr ""
+
+#: plugin-files/cpt/company.php:496 plugin-files/cpt/freelancers.php:637
+msgid "Banner Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:510 plugin-files/cpt/freelancers.php:651
+msgid "Select Banner Image"
+msgstr ""
+
+#: plugin-files/cpt/company.php:512 plugin-files/cpt/freelancers.php:653
+msgid "Select banner image to show on public profile."
+msgstr ""
+
+#: plugin-files/cpt/company.php:518 plugin-files/cpt/company.php:524
+#: plugin-files/cpt/freelancers.php:659 plugin-files/cpt/freelancers.php:665
+#: plugin-files/cpt/verification.php:89
+msgid "Address"
+msgstr ""
+
+#: plugin-files/cpt/company.php:529 plugin-files/cpt/freelancers.php:670
+msgid "Latitude"
+msgstr ""
+
+#: plugin-files/cpt/company.php:535 plugin-files/cpt/freelancers.php:676
+msgid "Provide Latitude"
+msgstr ""
+
+#: plugin-files/cpt/company.php:540 plugin-files/cpt/freelancers.php:681
+msgid "Longitude"
+msgstr ""
+
+#: plugin-files/cpt/company.php:546 plugin-files/cpt/freelancers.php:687
+msgid "Provide Longitude"
+msgstr ""
+
+#: plugin-files/cpt/company.php:550
+msgid "Mark Employer Verified"
+msgstr ""
+
+#: plugin-files/cpt/company.php:557 plugin-files/cpt/freelancers.php:868
+msgid "Not verified"
+msgstr ""
+
+#: plugin-files/cpt/company.php:563
+msgid "Mark Employer Featured"
+msgstr ""
+
+#: plugin-files/cpt/company.php:570 plugin-files/cpt/freelancers.php:855
+#: plugin-files/cpt/project.php:1155 plugin-files/cpt/services.php:814
+msgid "Simple"
+msgstr ""
+
+#: plugin-files/cpt/company.php:571 plugin-files/cpt/freelancers.php:856
+#: plugin-files/cpt/project.php:1156 plugin-files/cpt/services.php:815
+msgid "Featured"
+msgstr ""
+
+#: plugin-files/cpt/company.php:712 plugin-files/cpt/freelancers.php:1183
+msgid "Package Detail"
+msgstr ""
+
+#: plugin-files/cpt/company.php:728
+msgid "Simple Projects"
+msgstr ""
+
+#: plugin-files/cpt/company.php:732
+msgid " Allowed simple projects"
+msgstr ""
+
+#: plugin-files/cpt/company.php:733 plugin-files/cpt/company.php:749
+#: plugin-files/cpt/freelancers.php:1204 plugin-files/cpt/freelancers.php:1212
+#: plugin-files/cpt/freelancers.php:1228
+msgid "Integers only. -1 for unlimited"
+msgstr ""
+
+#: plugin-files/cpt/company.php:736 plugin-files/cpt/freelancers.php:1215
+msgid "Simple Projects Expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:740
+msgid " Simple project expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:741 plugin-files/cpt/freelancers.php:1220
+msgid "Integers only in days. -1 for never Expire"
+msgstr ""
+
+#: plugin-files/cpt/company.php:744 plugin-files/cpt/freelancers.php:1223
+msgid "Featured Projects"
+msgstr ""
+
+#: plugin-files/cpt/company.php:748
+msgid "Allowed Featured projects"
+msgstr ""
+
+#: plugin-files/cpt/company.php:752
+msgid "Featured Project Expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:756
+msgid " Featured Project Expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:757 plugin-files/cpt/company.php:765
+#: plugin-files/cpt/freelancers.php:1236 plugin-files/cpt/freelancers.php:1244
+msgid "Integers only in days. -1 for never expire"
+msgstr ""
+
+#: plugin-files/cpt/company.php:760 plugin-files/cpt/freelancers.php:1239
+msgid "Package Expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:764 plugin-files/cpt/freelancers.php:1243
+msgid " Package expiry"
+msgstr ""
+
+#: plugin-files/cpt/company.php:773 plugin-files/cpt/freelancers.php:1252
+#: plugin-files/exertio-widgets/exertio-widgets.php:542
+#: plugin-files/exertio-widgets/exertio-widgets.php:2228
+msgid "Never Expire"
+msgstr ""
+
+#: plugin-files/cpt/company.php:780 plugin-files/cpt/freelancers.php:1260
+msgid "Package Expiry: "
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:7 plugin-files/cpt/disputes.php:8
+#: plugin-files/cpt/disputes.php:9 plugin-files/cpt/disputes.php:10
+msgid "Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:11 plugin-files/cpt/disputes.php:12
+msgid "Add New Dispute"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:13
+msgid "New Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:14
+msgid "Edit Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:15
+msgid "View Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:16
+msgid "All Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:17
+msgid "Search Disputes"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:18
+msgid "No Dispute Found."
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:62 plugin-files/cpt/disputes.php:115
+msgid "Fixed: "
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:67
+msgid "Hourly: "
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:93
+msgid "Add Disputes Detail"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:107
+msgid "Project Price"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:120
+msgid "Hourly "
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:122
+msgid "Estimated Hours "
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:130 plugin-files/cpt/project.php:10
+#: plugin-files/cpt/project.php:11 plugin-files/cpt/project.php:12
+msgid "Project"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:136
+msgid "Dispute Status"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:150
+msgid "Dispute Conversation"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:229
+msgid "No messgae found"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:239
+msgid "Admin Response"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:246
+msgid "This will be visible to both users on their dispute detail page"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:250
+msgid "Select Dispute winner"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:271
+msgid " Select user"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:272
+msgid " (Employer)"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:273
+msgid " (Freelancer)"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:275
+msgid "The disputed amount will be transferred to the selected user."
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:279
+msgid "Mark Dispute as resolved"
+msgstr ""
+
+#: plugin-files/cpt/disputes.php:293
+msgid "Check this to mark it resolved"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:8 plugin-files/cpt/freelancers.php:9
+#: plugin-files/cpt/freelancers.php:10 plugin-files/cpt/freelancers.php:11
+#: plugin-files/exertio-widgets/exertio-widgets.php:2798
+msgid "Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:12 plugin-files/cpt/freelancers.php:13
+msgid "Add New Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:14
+msgid "New Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:15
+msgid "Edit Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:16
+msgid "View Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:17
+msgid "All Freelancers"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:18
+msgid "Search Freelancer"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:19
+msgid "No Freelancer Found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:64
+msgid "Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:65
+msgid "Search Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:66
+msgid "Popular Specializations"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:67
+msgid "All Specializations"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:68
+msgid "Edit Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:69
+msgid "Update Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:70
+msgid "Add New Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:71
+msgid "New Specialization Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:72
+msgid "Separate Specializations with commas"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:73
+msgid "Add or remove Specializations"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:74
+msgid "Choose from the most used Specializations"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:75
+msgid "No Specialization found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:76
+msgid "Specializations"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:88 plugin-files/cpt/freelancers.php:100
+#: plugin-files/cpt/freelancers.php:696 plugin-files/cpt/project.php:279
+#: plugin-files/cpt/project.php:291 plugin-files/cpt/project.php:1030
+msgid "Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:89 plugin-files/cpt/project.php:280
+msgid "Search Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:90 plugin-files/cpt/project.php:281
+msgid "Popular Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:91 plugin-files/cpt/project.php:282
+msgid "All Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:92 plugin-files/cpt/project.php:283
+msgid "Edit Skill"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:93 plugin-files/cpt/project.php:284
+msgid "Update Skill"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:94 plugin-files/cpt/project.php:285
+msgid "Add New Skill"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:95 plugin-files/cpt/project.php:286
+msgid "New Skill Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:96 plugin-files/cpt/project.php:287
+msgid "Separate Skills with commas"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:97 plugin-files/cpt/project.php:288
+msgid "Add or remove Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:98 plugin-files/cpt/project.php:289
+msgid "Choose from the most used Skills"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:99
+msgid "No Skills found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:138 plugin-files/cpt/freelancers.php:150
+#: plugin-files/cpt/freelancers.php:569 plugin-files/cpt/project.php:305
+#: plugin-files/cpt/project.php:317 plugin-files/cpt/project.php:1060
+msgid "Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:139 plugin-files/cpt/project.php:306
+msgid "Search Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:140 plugin-files/cpt/project.php:307
+msgid "Popular Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:141 plugin-files/cpt/project.php:308
+msgid "All Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:142 plugin-files/cpt/project.php:309
+msgid "Edit Language"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:143 plugin-files/cpt/project.php:310
+msgid "Update Language"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:144 plugin-files/cpt/project.php:311
+msgid "Add New Language"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:145 plugin-files/cpt/project.php:312
+msgid "New Language Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:146 plugin-files/cpt/project.php:313
+msgid "Separate Languages with commas"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:147 plugin-files/cpt/project.php:314
+msgid "Add or remove Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:148 plugin-files/cpt/project.php:315
+msgid "Choose from the most used Languages"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:149 plugin-files/cpt/project.php:316
+msgid "No Language found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:163 plugin-files/cpt/freelancers.php:175
+#: plugin-files/cpt/freelancers.php:463 plugin-files/cpt/project.php:148
+#: plugin-files/cpt/project.php:160 plugin-files/cpt/project.php:933
+msgid "Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:164 plugin-files/cpt/project.php:149
+msgid "Search Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:165 plugin-files/cpt/project.php:150
+msgid "Popular Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:166 plugin-files/cpt/project.php:151
+msgid "All Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:167 plugin-files/cpt/project.php:152
+msgid "Edit Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:168 plugin-files/cpt/project.php:153
+msgid "Update Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:169 plugin-files/cpt/project.php:154
+msgid "Add New Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:170 plugin-files/cpt/project.php:155
+msgid "New Freelancer Type Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:171 plugin-files/cpt/project.php:156
+msgid "Separate Freelancer Type with commas"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:172 plugin-files/cpt/project.php:157
+msgid "Add or remove Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:173 plugin-files/cpt/project.php:158
+msgid "Choose from the most used Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:174 plugin-files/cpt/project.php:159
+msgid "No Freelancer Type found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:187 plugin-files/cpt/freelancers.php:199
+#: plugin-files/cpt/freelancers.php:540 plugin-files/cpt/project.php:173
+#: plugin-files/cpt/project.php:185 plugin-files/cpt/project.php:965
+#: plugin-files/cpt/services.php:143 plugin-files/cpt/services.php:155
+#: plugin-files/cpt/services.php:664
+msgid "English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:188 plugin-files/cpt/project.php:174
+#: plugin-files/cpt/services.php:144
+msgid "Search English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:189 plugin-files/cpt/project.php:175
+#: plugin-files/cpt/services.php:145
+msgid "Popular English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:190 plugin-files/cpt/project.php:176
+#: plugin-files/cpt/services.php:146
+msgid "All English Levels"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:191 plugin-files/cpt/project.php:177
+#: plugin-files/cpt/services.php:147
+msgid "Edit English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:192 plugin-files/cpt/project.php:178
+#: plugin-files/cpt/services.php:148
+msgid "Update English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:193 plugin-files/cpt/project.php:179
+#: plugin-files/cpt/services.php:149
+msgid "Add New English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:194 plugin-files/cpt/project.php:180
+#: plugin-files/cpt/services.php:150
+msgid "New English Level Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:195 plugin-files/cpt/project.php:181
+#: plugin-files/cpt/services.php:151
+msgid "Separate English Level with commas"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:196 plugin-files/cpt/project.php:182
+#: plugin-files/cpt/services.php:152
+msgid "Add or remove English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:197 plugin-files/cpt/project.php:183
+#: plugin-files/cpt/services.php:153
+msgid "Choose from the most used English Levels"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:198 plugin-files/cpt/project.php:184
+#: plugin-files/cpt/services.php:154
+msgid "No English Level found."
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:385
+msgid "Add Freelancer Detail"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:415
+msgid "Gender"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:422
+msgid "Male"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:423
+msgid "Female"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:424
+msgid "Other"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:436
+msgid "Freelancer Tagline will be here"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:472 plugin-files/cpt/project.php:942
+msgid "Select Freelancer Type"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:494
+msgid "Freelancer Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:503
+msgid "Select Specialization"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:548 plugin-files/cpt/project.php:974
+#: plugin-files/cpt/services.php:673
+msgid "Select English Level"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:577
+msgid "Select Language"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:692
+msgid "Skills and Awads"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:727 plugin-files/cpt/freelancers.php:754
+#: plugin-files/cpt/freelancers.php:784 plugin-files/cpt/freelancers.php:814
+#: plugin-files/cpt/services.php:729
+msgid "Add More"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:732
+msgid "Awards and Certificates"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:745 plugin-files/cpt/freelancers.php:773
+msgid "Select image"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:760 plugin-files/cpt/project.php:9
+#: plugin-files/exertio-widgets/exertio-widgets.php:2795
+msgid "Projects"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:790
+msgid "Experience"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:805 plugin-files/cpt/freelancers.php:834
+msgid "Start Date Title"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:821
+msgid "Education"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:834
+msgid "Institude Name"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:843
+msgid "Add More Education"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:848
+msgid "Mark Freelancer Featured"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:861
+msgid "Mark Freelancer Verified"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1199
+msgid "Projects Credits"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1203
+msgid " Projects credits"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1207
+msgid "Simple Services"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1211
+msgid " Simple Services"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1219
+msgid " Simple service expiry"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1227
+msgid "Allowed Featured services"
+msgstr ""
+
+#: plugin-files/cpt/freelancers.php:1235
+msgid " Featured Services Expiry"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:7 plugin-files/cpt/payouts.php:8
+#: plugin-files/cpt/payouts.php:9 plugin-files/cpt/payouts.php:10
+msgid "Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:11 plugin-files/cpt/payouts.php:12
+msgid "Add New Payout"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:13
+msgid "New Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:14
+msgid "Edit Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:15
+msgid "View Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:16
+msgid "All Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:17
+msgid "Search Payouts"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:18
+msgid "No Payout Found."
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:42
+msgid "Amount"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:43 plugin-files/cpt/payouts.php:115
+msgid "Payout Status"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:81
+msgid "Add payouts Detail"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:89
+msgid "User Payout Methods"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:105
+msgid "Payout Amount"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:123
+msgid "Payout Method"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:131
+msgid "Mark Payout as processed"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:144
+msgid "Check this to mark it processed"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:148
+msgid "Private Note for this customer"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:155
+msgid "This will be visible to admin only, against this user"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:174
+msgid "preferred Payout Method:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:178
+msgid "User Profile:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:179
+msgid "View Profile"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:185
+msgid "PayPal"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:185 plugin-files/cpt/payouts.php:258
+msgid " ( preferred )"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:189
+msgid "Paypal Email:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:210
+msgid "Bank Transfer"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:210
+msgid " (preferred)"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:230
+msgid "Bank Name:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:234
+msgid "Account Number:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:238 plugin-files/cpt/payouts.php:277
+msgid "Account Name:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:242
+msgid "Routing Number:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:246
+msgid "IBAN:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:250
+msgid "SWIFT:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:258
+msgid "Payoneer"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:281
+msgid "Payoneer Email:"
+msgstr ""
+
+#: plugin-files/cpt/payouts.php:285
+msgid "Country:"
+msgstr ""
+
+#: plugin-files/cpt/project.php:13 plugin-files/cpt/project.php:14
+msgid "Add New Project"
+msgstr ""
+
+#: plugin-files/cpt/project.php:15
+msgid "New Project"
+msgstr ""
+
+#: plugin-files/cpt/project.php:16
+msgid "Edit Project"
+msgstr ""
+
+#: plugin-files/cpt/project.php:17
+msgid "View Project"
+msgstr ""
+
+#: plugin-files/cpt/project.php:18
+msgid "All Projects"
+msgstr ""
+
+#: plugin-files/cpt/project.php:19
+msgid "Search Projects"
+msgstr ""
+
+#: plugin-files/cpt/project.php:20
+msgid "No Project Found."
+msgstr ""
+
+#: plugin-files/cpt/project.php:54 plugin-files/cpt/services.php:44
+msgid "Status"
+msgstr ""
+
+#: plugin-files/cpt/project.php:56
+msgid "Admin Share"
+msgstr ""
+
+#: plugin-files/cpt/project.php:57
+msgid "Freelancer Share"
+msgstr ""
+
+#: plugin-files/cpt/project.php:115 plugin-files/cpt/project.php:804
+msgid "Project Categories"
+msgstr ""
+
+#: plugin-files/cpt/project.php:123 plugin-files/cpt/project.php:135
+#: plugin-files/cpt/project.php:903
+msgid "Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:124
+msgid "Search Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:125
+msgid "Popular Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:126
+msgid "All Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:127
+msgid "Edit Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:128
+msgid "Update Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:129
+msgid "Add New Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:130
+msgid "New Project Duration Name"
+msgstr ""
+
+#: plugin-files/cpt/project.php:131
+msgid "Separate Project Duration with commas"
+msgstr ""
+
+#: plugin-files/cpt/project.php:132
+msgid "Add or remove Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:133
+msgid "Choose from the most used Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:134
+msgid "No Project Duration found."
+msgstr ""
+
+#: plugin-files/cpt/project.php:199 plugin-files/cpt/project.php:211
+msgid "Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:200
+msgid "Search Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:201
+msgid "Popular Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:202
+msgid "All Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:203
+msgid "Edit Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:204
+msgid "Update Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:205
+msgid "Add New Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:206
+msgid "New Project Level Name"
+msgstr ""
+
+#: plugin-files/cpt/project.php:207
+msgid "Separate Project Levels with commas"
+msgstr ""
+
+#: plugin-files/cpt/project.php:208
+msgid "Add or remove Project Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:209
+msgid "Choose from the most used Project Levels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:210
+msgid "No Project Level found."
+msgstr ""
+
+#: plugin-files/cpt/project.php:224 plugin-files/cpt/project.php:236
+msgid "Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:225
+msgid "Search Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:226
+msgid "Popular Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:227
+msgid "All Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:228
+msgid "Edit Label"
+msgstr ""
+
+#: plugin-files/cpt/project.php:229
+msgid "Update Label"
+msgstr ""
+
+#: plugin-files/cpt/project.php:230
+msgid "Add New Label"
+msgstr ""
+
+#: plugin-files/cpt/project.php:231
+msgid "New Label Name"
+msgstr ""
+
+#: plugin-files/cpt/project.php:232
+msgid "Separate Labels with commas"
+msgstr ""
+
+#: plugin-files/cpt/project.php:233
+msgid "Add or remove Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:234
+msgid "Choose from the most used Labels"
+msgstr ""
+
+#: plugin-files/cpt/project.php:235
+msgid "No Label found."
+msgstr ""
+
+#: plugin-files/cpt/project.php:252
+msgid "Name"
+msgstr ""
+
+#: plugin-files/cpt/project.php:255
+msgid "Slug"
+msgstr ""
+
+#: plugin-files/cpt/project.php:256
+msgid "Posts"
+msgstr ""
+
+#: plugin-files/cpt/project.php:290
+msgid "No Skill found."
+msgstr ""
+
+#: plugin-files/cpt/project.php:656 plugin-files/cpt/project.php:675
+msgid "Label Color"
+msgstr ""
+
+#: plugin-files/cpt/project.php:658 plugin-files/cpt/project.php:678
+msgid "Provide color of your label"
+msgstr ""
+
+#: plugin-files/cpt/project.php:775
+msgid "Add Project Detail"
+msgstr ""
+
+#: plugin-files/cpt/project.php:836
+msgid "Project Level "
+msgstr ""
+
+#: plugin-files/cpt/project.php:844
+msgid "Select Level"
+msgstr ""
+
+#: plugin-files/cpt/project.php:861
+msgid "Select project level "
+msgstr ""
+
+#: plugin-files/cpt/project.php:875
+msgid "Project Type"
+msgstr ""
+
+#: plugin-files/cpt/project.php:878
+msgid "Select Project Type"
+msgstr ""
+
+#: plugin-files/cpt/project.php:885
+msgid "Cost"
+msgstr ""
+
+#: plugin-files/cpt/project.php:891
+msgid "Per Hour Price"
+msgstr ""
+
+#: plugin-files/cpt/project.php:911
+msgid "Select Project Duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:929
+msgid "Mention expected project duration"
+msgstr ""
+
+#: plugin-files/cpt/project.php:960
+msgid "What type of freelancer do you require"
+msgstr ""
+
+#: plugin-files/cpt/project.php:992
+msgid "How much grip should the applicant have on the English language."
+msgstr ""
+
+#: plugin-files/cpt/project.php:999
+msgid "Project Label"
+msgstr ""
+
+#: plugin-files/cpt/project.php:1025
+msgid "Leave it empty if you do not want to show"
+msgstr ""
+
+#: plugin-files/cpt/project.php:1107 plugin-files/cpt/services.php:753
+msgid "Attachments"
+msgstr ""
+
+#: plugin-files/cpt/project.php:1143 plugin-files/cpt/services.php:789
+msgid ""
+"If you are selected multiple images or want to add more images you must need "
+"to press Ctrl button on your keyboard."
+msgstr ""
+
+#: plugin-files/cpt/project.php:1148 plugin-files/cpt/services.php:807
+msgid "Mark Service Featured"
+msgstr ""
+
+#: plugin-files/cpt/project.php:1161
+msgid "Assign Project"
+msgstr ""
+
+#: plugin-files/cpt/project.php:1180
+msgid ""
+"If you select a user from this list it will assign this project to the "
+"selected user."
+msgstr ""
+
+#: plugin-files/cpt/report.php:7 plugin-files/cpt/report.php:8
+#: plugin-files/cpt/report.php:9 plugin-files/cpt/report.php:10
+msgid "Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:11 plugin-files/cpt/report.php:12
+msgid "Add New Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:13
+msgid "New Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:14
+msgid "Edit Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:15
+msgid "View Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:16
+msgid "All Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:17
+msgid "Search Report"
+msgstr ""
+
+#: plugin-files/cpt/report.php:18
+msgid "No Report Found."
+msgstr ""
+
+#: plugin-files/cpt/report.php:44 plugin-files/cpt/report.php:56
+msgid "Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:45
+msgid "Search Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:46
+msgid "Popular Reports Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:47
+msgid "All Report Categories"
+msgstr ""
+
+#: plugin-files/cpt/report.php:48
+msgid "Edit Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:49
+msgid "Update Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:50
+msgid "Add New Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:51
+msgid "New Report Category Name"
+msgstr ""
+
+#: plugin-files/cpt/report.php:52
+msgid "Separate Reports Category with commas"
+msgstr ""
+
+#: plugin-files/cpt/report.php:53
+msgid "Add or remove Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:54
+msgid "Choose from the most used Report Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:55
+msgid "No Report Category found."
+msgstr ""
+
+#: plugin-files/cpt/report.php:72 plugin-files/cpt/report.php:177
+msgid "Reported by"
+msgstr ""
+
+#: plugin-files/cpt/report.php:73
+msgid "No of Reports"
+msgstr ""
+
+#: plugin-files/cpt/report.php:74
+msgid "Post Type"
+msgstr ""
+
+#: plugin-files/cpt/report.php:75
+msgid "View Post"
+msgstr ""
+
+#: plugin-files/cpt/report.php:135
+msgid "Report Detail"
+msgstr ""
+
+#: plugin-files/cpt/report.php:149
+msgid "Category"
+msgstr ""
+
+#: plugin-files/cpt/report.php:162
+msgid "Number of Reports"
+msgstr ""
+
+#: plugin-files/cpt/services.php:7 plugin-files/cpt/services.php:8
+#: plugin-files/cpt/services.php:9 plugin-files/cpt/services.php:10
+#: plugin-files/exertio-widgets/exertio-widgets.php:2796
+msgid "Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:11 plugin-files/cpt/services.php:12
+msgid "Add New Service"
+msgstr ""
+
+#: plugin-files/cpt/services.php:13
+msgid "New Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:14
+msgid "Edit Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:15
+msgid "View Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:16
+msgid "All Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:17
+msgid "Search Services"
+msgstr ""
+
+#: plugin-files/cpt/services.php:18
+msgid "No Service Found."
+msgstr ""
+
+#: plugin-files/cpt/services.php:83
+msgid "Service Categories"
+msgstr ""
+
+#: plugin-files/cpt/services.php:93 plugin-files/cpt/services.php:105
+msgid "Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:94
+msgid "Search Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:95
+msgid "Popular Delivery Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:96
+msgid "All Delivery Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:97
+msgid "Edit Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:98
+msgid "Update Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:99
+msgid "Add New Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:100
+msgid "New Delivery Time Name"
+msgstr ""
+
+#: plugin-files/cpt/services.php:101
+msgid "Separate Delivery Times with commas"
+msgstr ""
+
+#: plugin-files/cpt/services.php:102
+msgid "Add or remove Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:103
+msgid "Choose from the most used Delivery Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:104
+msgid "No Delivery Time found."
+msgstr ""
+
+#: plugin-files/cpt/services.php:118 plugin-files/cpt/services.php:130
+msgid "Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:119
+msgid "Search Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:120
+msgid "Popular Response Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:121
+msgid "All Response Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:122
+msgid "Edit Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:123
+msgid "Update Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:124
+msgid "Add New Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:125
+msgid "New Response Time Name"
+msgstr ""
+
+#: plugin-files/cpt/services.php:126
+msgid "Separate Response Times with commas"
+msgstr ""
+
+#: plugin-files/cpt/services.php:127
+msgid "Add or remove Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:128
+msgid "Choose from the most used Response Times"
+msgstr ""
+
+#: plugin-files/cpt/services.php:129
+msgid "No Response Time found."
+msgstr ""
+
+#: plugin-files/cpt/services.php:237 plugin-files/cpt/services.php:264
+msgid "Icon"
+msgstr ""
+
+#: plugin-files/cpt/services.php:241 plugin-files/cpt/services.php:275
+msgid "Add Icon"
+msgstr ""
+
+#: plugin-files/cpt/services.php:242 plugin-files/cpt/services.php:276
+msgid "Remove Icon"
+msgstr ""
+
+#: plugin-files/cpt/services.php:523
+msgid "Add Service Detail"
+msgstr ""
+
+#: plugin-files/cpt/services.php:534
+msgid "Service Addons"
+msgstr ""
+
+#: plugin-files/cpt/services.php:560
+msgid "Service Category"
+msgstr ""
+
+#: plugin-files/cpt/services.php:594
+msgid "Response Time "
+msgstr ""
+
+#: plugin-files/cpt/services.php:602
+msgid "Select Response Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:618
+msgid "Select user response time "
+msgstr ""
+
+#: plugin-files/cpt/services.php:622
+msgid "Delivery Time "
+msgstr ""
+
+#: plugin-files/cpt/services.php:631
+msgid "Service Delivery Time"
+msgstr ""
+
+#: plugin-files/cpt/services.php:652 plugin-files/cpt/services.php:658
+#: plugin-files/pages/completed_services.php:38
+#: plugin-files/pages/queued_services.php:38
+msgid "Service Price"
+msgstr ""
+
+#: plugin-files/cpt/services.php:695
+msgid "Video URLs"
+msgstr ""
+
+#: plugin-files/cpt/services.php:731
+msgid "Please provide YouTube video URLs Only."
+msgstr ""
+
+#: plugin-files/cpt/services.php:794
+msgid "Want to show attachments"
+msgstr ""
+
+#: plugin-files/cpt/services.php:801
+#: plugin-files/widgets/employers-widgets.php:187
+#: plugin-files/widgets/employers-widgets.php:299
+#: plugin-files/widgets/employers-widgets.php:411
+#: plugin-files/widgets/freelancers-widgets.php:187
+#: plugin-files/widgets/freelancers-widgets.php:291
+#: plugin-files/widgets/freelancers-widgets.php:403
+#: plugin-files/widgets/freelancers-widgets.php:515
+#: plugin-files/widgets/freelancers-widgets.php:626
+#: plugin-files/widgets/freelancers-widgets.php:737
+#: plugin-files/widgets/projects-widgets.php:189
+#: plugin-files/widgets/projects-widgets.php:305
+#: plugin-files/widgets/projects-widgets.php:567
+#: plugin-files/widgets/projects-widgets.php:680
+#: plugin-files/widgets/projects-widgets.php:795
+#: plugin-files/widgets/projects-widgets.php:906
+#: plugin-files/widgets/projects-widgets.php:1017
+#: plugin-files/widgets/projects-widgets.php:1128
+#: plugin-files/widgets/services-widgets.php:193
+#: plugin-files/widgets/services-widgets.php:308
+#: plugin-files/widgets/services-widgets.php:422
+#: plugin-files/widgets/services-widgets.php:536
+#: plugin-files/widgets/services-widgets.php:650
+msgid "Yes"
+msgstr ""
+
+#: plugin-files/cpt/services.php:802
+#: plugin-files/widgets/employers-widgets.php:188
+#: plugin-files/widgets/employers-widgets.php:300
+#: plugin-files/widgets/employers-widgets.php:412
+#: plugin-files/widgets/freelancers-widgets.php:188
+#: plugin-files/widgets/freelancers-widgets.php:292
+#: plugin-files/widgets/freelancers-widgets.php:404
+#: plugin-files/widgets/freelancers-widgets.php:516
+#: plugin-files/widgets/freelancers-widgets.php:627
+#: plugin-files/widgets/freelancers-widgets.php:738
+#: plugin-files/widgets/projects-widgets.php:190
+#: plugin-files/widgets/projects-widgets.php:306
+#: plugin-files/widgets/projects-widgets.php:568
+#: plugin-files/widgets/projects-widgets.php:681
+#: plugin-files/widgets/projects-widgets.php:796
+#: plugin-files/widgets/projects-widgets.php:907
+#: plugin-files/widgets/projects-widgets.php:1018
+#: plugin-files/widgets/projects-widgets.php:1129
+#: plugin-files/widgets/services-widgets.php:194
+#: plugin-files/widgets/services-widgets.php:309
+#: plugin-files/widgets/services-widgets.php:423
+#: plugin-files/widgets/services-widgets.php:537
+#: plugin-files/widgets/services-widgets.php:651
+msgid "No"
+msgstr ""
+
+#: plugin-files/cpt/services.php:820
+msgid "Assign Service"
+msgstr ""
+
+#: plugin-files/cpt/services.php:839
+msgid ""
+"If you select a user from this list it will assign this service to the "
+"selected user."
+msgstr ""
+
+#: plugin-files/cpt/verification.php:7 plugin-files/cpt/verification.php:8
+#: plugin-files/cpt/verification.php:9 plugin-files/cpt/verification.php:10
+msgid "Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:11 plugin-files/cpt/verification.php:12
+msgid "Add New Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:13
+msgid "New Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:14
+msgid "Edit Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:15
+msgid "View Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:16
+msgid "All Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:17
+msgid "Search Verification"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:18
+msgid "No Verification Found."
+msgstr ""
+
+#: plugin-files/cpt/verification.php:54
+msgid "Verification Detail"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:79
+msgid "CNIC / Passport / NIN  or SSN"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:99
+msgid "Document"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:116
+msgid "Freelancer Profile Link"
+msgstr ""
+
+#: plugin-files/cpt/verification.php:127
+msgid "Employer Profile Link"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:263
+#: plugin-files/exertio-widgets/exertio-widgets.php:288
+#: plugin-files/exertio-widgets/exertio-widgets.php:1137
+#: plugin-files/exertio-widgets/exertio-widgets.php:1156
+msgid " Listings"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:493
+#: plugin-files/exertio-widgets/exertio-widgets.php:497
+#: plugin-files/exertio-widgets/exertio-widgets.php:2179
+#: plugin-files/exertio-widgets/exertio-widgets.php:2183
+msgid " Project Allowed"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:495
+#: plugin-files/exertio-widgets/exertio-widgets.php:2181
+msgid "Unlimited Project Allowed"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:503
+#: plugin-files/exertio-widgets/exertio-widgets.php:507
+#: plugin-files/exertio-widgets/exertio-widgets.php:636
+#: plugin-files/exertio-widgets/exertio-widgets.php:640
+#: plugin-files/exertio-widgets/exertio-widgets.php:654
+#: plugin-files/exertio-widgets/exertio-widgets.php:658
+#: plugin-files/exertio-widgets/exertio-widgets.php:2189
+#: plugin-files/exertio-widgets/exertio-widgets.php:2193
+#: plugin-files/exertio-widgets/exertio-widgets.php:2323
+#: plugin-files/exertio-widgets/exertio-widgets.php:2327
+#: plugin-files/exertio-widgets/exertio-widgets.php:2341
+#: plugin-files/exertio-widgets/exertio-widgets.php:2345
+msgid " Days visibility"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:505
+#: plugin-files/exertio-widgets/exertio-widgets.php:2191
+msgid "Lifetime visibility"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:513
+#: plugin-files/exertio-widgets/exertio-widgets.php:517
+#: plugin-files/exertio-widgets/exertio-widgets.php:2199
+#: plugin-files/exertio-widgets/exertio-widgets.php:2203
+msgid " Featured Projects"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:515
+#: plugin-files/exertio-widgets/exertio-widgets.php:2201
+msgid "Unlimited Featured Project"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:523
+#: plugin-files/exertio-widgets/exertio-widgets.php:527
+#: plugin-files/exertio-widgets/exertio-widgets.php:2209
+#: plugin-files/exertio-widgets/exertio-widgets.php:2213
+msgid " Days Featured"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:525
+#: plugin-files/exertio-widgets/exertio-widgets.php:2211
+msgid "Lifetime Featured"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:533
+#: plugin-files/exertio-widgets/exertio-widgets.php:2219
+msgid "Profile featured"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:535
+#: plugin-files/exertio-widgets/exertio-widgets.php:2221
+msgid "Featured Profile"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:540
+#: plugin-files/exertio-widgets/exertio-widgets.php:544
+#: plugin-files/exertio-widgets/exertio-widgets.php:663
+#: plugin-files/exertio-widgets/exertio-widgets.php:667
+#: plugin-files/exertio-widgets/exertio-widgets.php:2226
+#: plugin-files/exertio-widgets/exertio-widgets.php:2230
+#: plugin-files/exertio-widgets/exertio-widgets.php:2350
+#: plugin-files/exertio-widgets/exertio-widgets.php:2354
+msgid " Days Package Expiry"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:574
+#: plugin-files/exertio-widgets/exertio-widgets.php:698
+#: plugin-files/exertio-widgets/exertio-widgets.php:2271
+#: plugin-files/exertio-widgets/exertio-widgets.php:2394
+msgid " Purchase Now"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:618
+#: plugin-files/exertio-widgets/exertio-widgets.php:622
+#: plugin-files/exertio-widgets/exertio-widgets.php:2305
+#: plugin-files/exertio-widgets/exertio-widgets.php:2309
+msgid " Project Credits"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:620
+#: plugin-files/exertio-widgets/exertio-widgets.php:2307
+msgid "Unlimited Project Credits"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:627
+#: plugin-files/exertio-widgets/exertio-widgets.php:631
+#: plugin-files/exertio-widgets/exertio-widgets.php:2314
+#: plugin-files/exertio-widgets/exertio-widgets.php:2318
+msgid " Allowed Services"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:629
+#: plugin-files/exertio-widgets/exertio-widgets.php:2316
+msgid " Unlimited Services"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:638
+#: plugin-files/exertio-widgets/exertio-widgets.php:656
+#: plugin-files/exertio-widgets/exertio-widgets.php:2325
+#: plugin-files/exertio-widgets/exertio-widgets.php:2343
+msgid "Services Never Expire"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:645
+#: plugin-files/exertio-widgets/exertio-widgets.php:649
+#: plugin-files/exertio-widgets/exertio-widgets.php:2332
+#: plugin-files/exertio-widgets/exertio-widgets.php:2336
+msgid " Featured Services"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:647
+#: plugin-files/exertio-widgets/exertio-widgets.php:2334
+msgid "Unlimited Featured Services"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:665
+#: plugin-files/exertio-widgets/exertio-widgets.php:2352
+msgid "Package Never Expire"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:673
+#: plugin-files/exertio-widgets/exertio-widgets.php:675
+msgid " Profile Featured: "
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:874
+msgid "Read More"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:960
+msgid "View More"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:1570
+msgid " hourly"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:1599
+msgid " View Profile"
+msgstr ""
+
+#: plugin-files/exertio-widgets/exertio-widgets.php:2797
+msgid "Employers"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:6
+#: plugin-files/pages/completed_services.php:7
+msgid "Complete Services"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:30
+msgid "Completed Service"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:34
+#: plugin-files/pages/queued_services.php:34
+msgid "Sr#"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:35
+#: plugin-files/pages/queued_services.php:35
+#: plugin-files/widgets/employers-widgets.php:169
+#: plugin-files/widgets/employers-widgets.php:281
+#: plugin-files/widgets/employers-widgets.php:393
+#: plugin-files/widgets/freelancers-widgets.php:169
+#: plugin-files/widgets/freelancers-widgets.php:273
+#: plugin-files/widgets/freelancers-widgets.php:385
+#: plugin-files/widgets/freelancers-widgets.php:497
+#: plugin-files/widgets/freelancers-widgets.php:608
+#: plugin-files/widgets/freelancers-widgets.php:719
+#: plugin-files/widgets/freelancers-widgets.php:855
+#: plugin-files/widgets/projects-widgets.php:171
+#: plugin-files/widgets/projects-widgets.php:287
+#: plugin-files/widgets/projects-widgets.php:429
+#: plugin-files/widgets/projects-widgets.php:549
+#: plugin-files/widgets/projects-widgets.php:662
+#: plugin-files/widgets/projects-widgets.php:777
+#: plugin-files/widgets/projects-widgets.php:888
+#: plugin-files/widgets/projects-widgets.php:999
+#: plugin-files/widgets/projects-widgets.php:1110
+#: plugin-files/widgets/projects-widgets.php:1227
+#: plugin-files/widgets/services-widgets.php:175
+#: plugin-files/widgets/services-widgets.php:290
+#: plugin-files/widgets/services-widgets.php:404
+#: plugin-files/widgets/services-widgets.php:518
+#: plugin-files/widgets/services-widgets.php:632
+#: plugin-files/widgets/services-widgets.php:771
+msgid "Title"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:36
+#: plugin-files/pages/queued_services.php:36
+msgid "Service Owner"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:37
+#: plugin-files/pages/queued_services.php:37
+msgid "Service Buyer"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:39
+#: plugin-files/pages/queued_services.php:39
+msgid "Purchased Date"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:40
+msgid "Completed Date"
+msgstr ""
+
+#: plugin-files/pages/completed_services.php:41
+#: plugin-files/pages/queued_services.php:40
+msgid "Delievry Time"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:60
+#: plugin-files/pages/notifications.php:276
+msgid " sent a proposal on your job "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:64
+#: plugin-files/pages/notifications.php:121
+#: plugin-files/pages/notifications.php:280
+#: plugin-files/pages/notifications.php:337
+msgid " has been expired."
+msgstr ""
+
+#: plugin-files/pages/notifications.php:68
+#: plugin-files/pages/notifications.php:125
+#: plugin-files/pages/notifications.php:284
+#: plugin-files/pages/notifications.php:341
+msgid " has been expired from featured list."
+msgstr ""
+
+#: plugin-files/pages/notifications.php:72
+#: plugin-files/pages/notifications.php:288
+msgid "Congratulations! you got a new project "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:76
+#: plugin-files/pages/notifications.php:84
+#: plugin-files/pages/notifications.php:292
+#: plugin-files/pages/notifications.php:300
+msgid "Your project "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:76
+#: plugin-files/pages/notifications.php:292
+msgid " has been completed"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:80
+#: plugin-files/pages/notifications.php:296
+msgid "Your got a new rating on "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:84
+#: plugin-files/pages/notifications.php:300
+msgid " has been canceled"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:88
+#: plugin-files/pages/notifications.php:133
+#: plugin-files/pages/notifications.php:304
+#: plugin-files/pages/notifications.php:349
+msgid " sent a message on "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:92
+#: plugin-files/pages/notifications.php:308
+msgid " created a dispute against the job "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:96
+#: plugin-files/pages/notifications.php:312
+msgid " sent a message on a dispute "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:100
+#: plugin-files/pages/notifications.php:316
+msgid "You got a new order on "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:104
+#: plugin-files/pages/notifications.php:320
+msgid " marked order completed for "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:108
+#: plugin-files/pages/notifications.php:324
+msgid " canceled an order on "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:113
+#: plugin-files/pages/notifications.php:329
+msgid " Your payout "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:113
+#: plugin-files/pages/notifications.php:329
+msgid " has been processed. "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:117
+#: plugin-files/pages/notifications.php:333
+msgid " You got a verified badge on your profile"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:137
+#: plugin-files/pages/notifications.php:353
+msgid "Your dispute "
+msgstr ""
+
+#: plugin-files/pages/notifications.php:137
+#: plugin-files/pages/notifications.php:141
+#: plugin-files/pages/notifications.php:353
+msgid " has been resolved."
+msgstr ""
+
+#: plugin-files/pages/notifications.php:141
+msgid "Your have a Zoom on"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:150
+msgid "No new notifications available"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:217
+msgid "Notification read issue"
+msgstr ""
+
+#: plugin-files/pages/notifications.php:222
+msgid "Notifications marked as read"
+msgstr ""
+
+#: plugin-files/pages/queued_services.php:6
+#: plugin-files/pages/queued_services.php:7
+msgid "OnGoing Services"
+msgstr ""
+
+#: plugin-files/pages/queued_services.php:30
+msgid "OnGoing Service"
+msgstr ""
+
+#: plugin-files/pages/statements.php:60
+msgid "Wallet Topup"
+msgstr ""
+
+#: plugin-files/pages/statements.php:68
+msgid "Amount added in wallet"
+msgstr ""
+
+#: plugin-files/pages/statements.php:78
+msgid "Top Proposal"
+msgstr ""
+
+#: plugin-files/pages/statements.php:86
+msgid "Purchased a top proposal add-on on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:96
+msgid "Sealed Proposal"
+msgstr ""
+
+#: plugin-files/pages/statements.php:104
+msgid "Purchased a sealed proposal add-on on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:114
+msgid "Featured Proposal"
+msgstr ""
+
+#: plugin-files/pages/statements.php:122
+msgid "Purchased a featured proposal add-on on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:132
+msgid "Project Assigned"
+msgstr ""
+
+#: plugin-files/pages/statements.php:140
+msgid "Escrow amount for the project "
+msgstr ""
+
+#: plugin-files/pages/statements.php:150
+msgid "Project Completed"
+msgstr ""
+
+#: plugin-files/pages/statements.php:158
+msgid " project completed"
+msgstr ""
+
+#: plugin-files/pages/statements.php:168
+msgid "Service Purchased"
+msgstr ""
+
+#: plugin-files/pages/statements.php:176
+msgid "Purchase service "
+msgstr ""
+
+#: plugin-files/pages/statements.php:186
+msgid "Service Admin fee"
+msgstr ""
+
+#: plugin-files/pages/statements.php:194
+msgid "Admin fee for "
+msgstr ""
+
+#: plugin-files/pages/statements.php:204
+msgid "Service Completed"
+msgstr ""
+
+#: plugin-files/pages/statements.php:212
+msgid "Service complete amount deposit "
+msgstr ""
+
+#: plugin-files/pages/statements.php:222 plugin-files/pages/statements.php:258
+msgid "Admin Fee"
+msgstr ""
+
+#: plugin-files/pages/statements.php:230
+msgid "Service complete admin charges "
+msgstr ""
+
+#: plugin-files/pages/statements.php:240
+msgid "Milestone Released"
+msgstr ""
+
+#: plugin-files/pages/statements.php:248
+msgid "Milestone released on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:266
+msgid "Admin fee for milestone released on  "
+msgstr ""
+
+#: plugin-files/pages/statements.php:276 plugin-files/pages/statements.php:294
+msgid "Package Purchase"
+msgstr ""
+
+#: plugin-files/pages/statements.php:284
+msgid "Purchased a new employer package"
+msgstr ""
+
+#: plugin-files/pages/statements.php:302
+msgid "Purchased a new freelancer package"
+msgstr ""
+
+#: plugin-files/pages/statements.php:312
+msgid "Dispute Refund"
+msgstr ""
+
+#: plugin-files/pages/statements.php:320
+msgid "Dispute amoung has been refunded"
+msgstr ""
+
+#: plugin-files/pages/statements.php:330
+msgid "Received a reward or tip on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:330
+msgid "Paid a reward or tip on "
+msgstr ""
+
+#: plugin-files/pages/statements.php:331
+msgid "Reward or Tip"
+msgstr ""
+
+#: plugin-files/pages/users.php:15
+msgid "Total Money in User Wallet"
+msgstr ""
+
+#: plugin-files/pages/users.php:19
+msgid ""
+"Provide amount without decimal and please be careful while changing the "
+"amount as it will reflect in the user wallet right away."
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:13
+msgid "Exertio Employer - Filter By Keyword"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:16
+msgid "Employer Search by keyword widget"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:43
+msgid "Keyword or employer name"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:60
+#: plugin-files/widgets/employers-widgets.php:161
+#: plugin-files/widgets/employers-widgets.php:273
+#: plugin-files/widgets/employers-widgets.php:385
+#: plugin-files/widgets/freelancers-widgets.php:60
+#: plugin-files/widgets/freelancers-widgets.php:161
+#: plugin-files/widgets/freelancers-widgets.php:265
+#: plugin-files/widgets/freelancers-widgets.php:377
+#: plugin-files/widgets/freelancers-widgets.php:489
+#: plugin-files/widgets/freelancers-widgets.php:600
+#: plugin-files/widgets/freelancers-widgets.php:711
+#: plugin-files/widgets/freelancers-widgets.php:831
+#: plugin-files/widgets/projects-widgets.php:60
+#: plugin-files/widgets/projects-widgets.php:163
+#: plugin-files/widgets/projects-widgets.php:279
+#: plugin-files/widgets/projects-widgets.php:403
+#: plugin-files/widgets/projects-widgets.php:541
+#: plugin-files/widgets/projects-widgets.php:654
+#: plugin-files/widgets/projects-widgets.php:769
+#: plugin-files/widgets/projects-widgets.php:880
+#: plugin-files/widgets/projects-widgets.php:991
+#: plugin-files/widgets/projects-widgets.php:1102
+#: plugin-files/widgets/projects-widgets.php:1219
+#: plugin-files/widgets/services-widgets.php:60
+#: plugin-files/widgets/services-widgets.php:167
+#: plugin-files/widgets/services-widgets.php:282
+#: plugin-files/widgets/services-widgets.php:396
+#: plugin-files/widgets/services-widgets.php:510
+#: plugin-files/widgets/services-widgets.php:624
+#: plugin-files/widgets/services-widgets.php:745
+msgid "New title"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:68
+#: plugin-files/widgets/freelancers-widgets.php:68
+#: plugin-files/widgets/projects-widgets.php:68
+#: plugin-files/widgets/services-widgets.php:68
+msgid "Title:"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:74
+#: plugin-files/widgets/employers-widgets.php:175
+#: plugin-files/widgets/employers-widgets.php:287
+#: plugin-files/widgets/employers-widgets.php:399
+#: plugin-files/widgets/freelancers-widgets.php:74
+#: plugin-files/widgets/freelancers-widgets.php:175
+#: plugin-files/widgets/freelancers-widgets.php:279
+#: plugin-files/widgets/freelancers-widgets.php:391
+#: plugin-files/widgets/freelancers-widgets.php:503
+#: plugin-files/widgets/freelancers-widgets.php:614
+#: plugin-files/widgets/freelancers-widgets.php:725
+#: plugin-files/widgets/freelancers-widgets.php:873
+#: plugin-files/widgets/projects-widgets.php:74
+#: plugin-files/widgets/projects-widgets.php:177
+#: plugin-files/widgets/projects-widgets.php:293
+#: plugin-files/widgets/projects-widgets.php:447
+#: plugin-files/widgets/projects-widgets.php:555
+#: plugin-files/widgets/projects-widgets.php:668
+#: plugin-files/widgets/projects-widgets.php:783
+#: plugin-files/widgets/projects-widgets.php:894
+#: plugin-files/widgets/projects-widgets.php:1005
+#: plugin-files/widgets/projects-widgets.php:1116
+#: plugin-files/widgets/projects-widgets.php:1233
+#: plugin-files/widgets/services-widgets.php:74
+#: plugin-files/widgets/services-widgets.php:181
+#: plugin-files/widgets/services-widgets.php:296
+#: plugin-files/widgets/services-widgets.php:410
+#: plugin-files/widgets/services-widgets.php:524
+#: plugin-files/widgets/services-widgets.php:638
+#: plugin-files/widgets/services-widgets.php:789
+msgid "Widget state open or closed"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:77
+#: plugin-files/widgets/employers-widgets.php:178
+#: plugin-files/widgets/employers-widgets.php:290
+#: plugin-files/widgets/employers-widgets.php:402
+#: plugin-files/widgets/freelancers-widgets.php:77
+#: plugin-files/widgets/freelancers-widgets.php:178
+#: plugin-files/widgets/freelancers-widgets.php:282
+#: plugin-files/widgets/freelancers-widgets.php:394
+#: plugin-files/widgets/freelancers-widgets.php:506
+#: plugin-files/widgets/freelancers-widgets.php:617
+#: plugin-files/widgets/freelancers-widgets.php:728
+#: plugin-files/widgets/freelancers-widgets.php:877
+#: plugin-files/widgets/projects-widgets.php:77
+#: plugin-files/widgets/projects-widgets.php:180
+#: plugin-files/widgets/projects-widgets.php:296
+#: plugin-files/widgets/projects-widgets.php:450
+#: plugin-files/widgets/projects-widgets.php:558
+#: plugin-files/widgets/projects-widgets.php:671
+#: plugin-files/widgets/projects-widgets.php:786
+#: plugin-files/widgets/projects-widgets.php:897
+#: plugin-files/widgets/projects-widgets.php:1008
+#: plugin-files/widgets/projects-widgets.php:1119
+#: plugin-files/widgets/projects-widgets.php:1236
+#: plugin-files/widgets/services-widgets.php:77
+#: plugin-files/widgets/services-widgets.php:184
+#: plugin-files/widgets/services-widgets.php:299
+#: plugin-files/widgets/services-widgets.php:413
+#: plugin-files/widgets/services-widgets.php:527
+#: plugin-files/widgets/services-widgets.php:641
+#: plugin-files/widgets/services-widgets.php:792
+msgid "Close"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:78
+#: plugin-files/widgets/employers-widgets.php:179
+#: plugin-files/widgets/employers-widgets.php:291
+#: plugin-files/widgets/employers-widgets.php:403
+#: plugin-files/widgets/freelancers-widgets.php:78
+#: plugin-files/widgets/freelancers-widgets.php:179
+#: plugin-files/widgets/freelancers-widgets.php:283
+#: plugin-files/widgets/freelancers-widgets.php:395
+#: plugin-files/widgets/freelancers-widgets.php:507
+#: plugin-files/widgets/freelancers-widgets.php:618
+#: plugin-files/widgets/freelancers-widgets.php:729
+#: plugin-files/widgets/freelancers-widgets.php:878
+#: plugin-files/widgets/projects-widgets.php:78
+#: plugin-files/widgets/projects-widgets.php:181
+#: plugin-files/widgets/projects-widgets.php:297
+#: plugin-files/widgets/projects-widgets.php:451
+#: plugin-files/widgets/projects-widgets.php:559
+#: plugin-files/widgets/projects-widgets.php:672
+#: plugin-files/widgets/projects-widgets.php:787
+#: plugin-files/widgets/projects-widgets.php:898
+#: plugin-files/widgets/projects-widgets.php:1009
+#: plugin-files/widgets/projects-widgets.php:1120
+#: plugin-files/widgets/projects-widgets.php:1237
+#: plugin-files/widgets/services-widgets.php:78
+#: plugin-files/widgets/services-widgets.php:185
+#: plugin-files/widgets/services-widgets.php:300
+#: plugin-files/widgets/services-widgets.php:414
+#: plugin-files/widgets/services-widgets.php:528
+#: plugin-files/widgets/services-widgets.php:642
+#: plugin-files/widgets/services-widgets.php:793
+msgid "Open"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:114
+msgid "Exertio Employer - Filter By Category"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:117
+msgid "Employer Search by department"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:184
+#: plugin-files/widgets/employers-widgets.php:296
+#: plugin-files/widgets/employers-widgets.php:408
+#: plugin-files/widgets/freelancers-widgets.php:184
+#: plugin-files/widgets/freelancers-widgets.php:288
+#: plugin-files/widgets/freelancers-widgets.php:400
+#: plugin-files/widgets/freelancers-widgets.php:512
+#: plugin-files/widgets/freelancers-widgets.php:623
+#: plugin-files/widgets/freelancers-widgets.php:734
+#: plugin-files/widgets/projects-widgets.php:186
+#: plugin-files/widgets/projects-widgets.php:302
+#: plugin-files/widgets/projects-widgets.php:564
+#: plugin-files/widgets/projects-widgets.php:677
+#: plugin-files/widgets/projects-widgets.php:792
+#: plugin-files/widgets/projects-widgets.php:903
+#: plugin-files/widgets/projects-widgets.php:1014
+#: plugin-files/widgets/projects-widgets.php:1125
+#: plugin-files/widgets/services-widgets.php:190
+#: plugin-files/widgets/services-widgets.php:305
+#: plugin-files/widgets/services-widgets.php:419
+#: plugin-files/widgets/services-widgets.php:533
+#: plugin-files/widgets/services-widgets.php:647
+msgid "Want to allow search in list?"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:226
+msgid "Exertio Employer - Filter By No of Employees"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:229
+msgid "Employer Search by Number of Emplyees"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:338
+msgid "Exertio Employer - Filter By Location"
+msgstr ""
+
+#: plugin-files/widgets/employers-widgets.php:341
+msgid "Employer Search by Location"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:13
+msgid "Exertio Freelancer - Filter By Keyword"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:16
+msgid "Freelancer Search by keyword widget"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:43
+msgid "Keyword or freelancer name"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:114
+msgid "Exertio Freelancer - Filter By Freelancer Type"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:117
+msgid "Freelancer Search by Freelancer type"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:218
+msgid "Exertio Freelancer - Filter By Freelancer specialization"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:221
+msgid "Freelancer Search by Specialization"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:330
+msgid "Exertio Freelancer - Filter By English Level"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:333
+msgid "Freelancer Search by English Level"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:442
+msgid "Exertio Freelancer - Filter By Freelancer Language"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:445
+msgid "Freelancer Search by Freelancer Language"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:553
+msgid "Exertio Freelancer - Filter By Freelancer Location"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:556
+msgid "Freelancer Search by Freelancer Location"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:664
+msgid "Exertio Freelancer - Filter By Skills"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:667
+msgid "Freelancer Search by Freelancer Skills"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:775
+msgid "Exertio Freelancer - Filter By Price Rate"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:778
+msgid "Freelancer Search by Price Rate"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:839
+#: plugin-files/widgets/projects-widgets.php:412
+#: plugin-files/widgets/services-widgets.php:754
+msgid "0"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:848
+#: plugin-files/widgets/projects-widgets.php:421
+#: plugin-files/widgets/services-widgets.php:763
+msgid "100"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:861
+#: plugin-files/widgets/projects-widgets.php:435
+#: plugin-files/widgets/services-widgets.php:777
+msgid "Minimum Range"
+msgstr ""
+
+#: plugin-files/widgets/freelancers-widgets.php:867
+#: plugin-files/widgets/projects-widgets.php:441
+#: plugin-files/widgets/services-widgets.php:783
+msgid "Maximum Range"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:13
+msgid "Exertio Projects - Filter By Keyword"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:16
+msgid "Prokject Search by keyword widget"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:43
+#: plugin-files/widgets/services-widgets.php:43
+msgid "What are you looking for"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:114
+msgid "Exertio Projects - Filter By Category"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:117
+msgid "Projects Search by category"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:230
+msgid "Exertio Projects - Filter By Freelancer Type"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:233
+msgid "Projects Search by freelancer type"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:347
+msgid "Exertio Projects - Filter By Price"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:350
+msgid "Projects Search by Price"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:492
+msgid "Exertio Projects - Filter By Duration"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:495
+msgid "Projects Search by Duration"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:607
+msgid "Exertio Projects - Filter By Level"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:610
+msgid "Projects Search by Level"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:720
+msgid "Exertio Projects - Filter By English Level"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:723
+msgid "Projects Search by English Level"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:833
+msgid "Exertio Projects - Filter By Location"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:836
+msgid "Projects Search by Location"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:944
+msgid "Exertio Projects - Filter By Skills"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:947
+msgid "Projects Search by Skills"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1055
+msgid "Exertio Projects - Filter By Languages"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1058
+msgid "Projects Search by Languages"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1167
+msgid "Exertio Projects - Filter By Price Type"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1170
+msgid "Projects Search by Price Type"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1201
+msgid "Select price type"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1202
+msgid "Fixed Price"
+msgstr ""
+
+#: plugin-files/widgets/projects-widgets.php:1203
+msgid "Hourly Price"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:13
+msgid "Exertio Services - Filter By Keyword"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:16
+msgid "Services Search by keyword widget"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:117
+msgid "Exertio Services - Filter By Category"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:120
+msgid "Services Search by category"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:233
+msgid "Exertio Services - Filter By English Level"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:236
+msgid "Services Search by English Level"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:347
+msgid "Exertio Services - Filter By Response Time"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:350
+msgid "Services Search by Response time"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:461
+msgid "Exertio Services - Filter By Delivery Time"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:464
+msgid "Services Search by Delivery time"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:575
+msgid "Exertio Services - Filter By Location"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:578
+msgid "Services Search by Location"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:688
+msgid "Exertio Services - Filter By Price"
+msgstr ""
+
+#: plugin-files/widgets/services-widgets.php:691
+msgid "Services Search by Price"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:77
+msgid ""
+"Best if used on new WordPress install & this theme requires PHP version 7.0+"
+msgstr ""
+
+#: redux-extensions/extensions-init.php:78
+msgid "Images are for demo purpose only."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:236
+msgid "Demo Already Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:260
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:262
+msgid "Demo Importer"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:267
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:330
+msgid "Main Page"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:338
+msgid "Home 1"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:345
+msgid "Home 2"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:352
+msgid "Home 3"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:359
+msgid "Home 4"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:366
+msgid "How it Works"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:372
+msgid "Browse Jobs"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:379
+msgid "Project Search"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:386
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:400
+msgid "Project Detail"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:393
+msgid "Services Search"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:407
+msgid "Employers Packages"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:414
+msgid "Freelancers Packages"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:421
+msgid "Pages"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:428
+msgid "About Us"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:435
+msgid "Blog"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:442
+msgid "Blog Detail"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:449
+msgid "Privacy Policy"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:456
+msgid "404 Page"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/extension_wbc_importer.php:463
+msgid "Contact Us"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:42
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:72
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:84
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:89
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:279
+#: redux-extensions/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: redux-extensions/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Exertio Framework"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://themeforest.net/user/scriptsbundle/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Exertio framework is essential for the proper Exertio WordPress Theme "
+"funcationality."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""

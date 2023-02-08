@@ -1,0 +1,39 @@
+.has-feedback .smk-error-msg {
+    font-size: 12px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: right;
+    color: #E90003;
+}
+.form-group {
+	margin-bottom: 1.25rem;
+	position: relative;
+}
+.has-error input.form-control {
+	border:2px solid #E90003; 	
+}
+.has-error input.form-control:focus {
+	background-color: #EEE;
+	border-color: none;
+	box-shadow: none;
+}
+#toast-container > div {
+	box-shadow:none;
+	border:none;
+	opacity:1;
+	font-size:16px;
+	width:500px;
+	padding:20px 20px 20px 50px;
+	border-radius:0;
+}
+#toast-container > :hover {
+	box-shadow:1px 0px 20px rgba(0,0,0,0.07);	
+}
+.toast-close-button {
+	top:0;	
+}
+@media (min-width: 320px) and (max-width: 575.8px) {
+	#toast-container > div {
+		width:300px !important;
+	}
+}

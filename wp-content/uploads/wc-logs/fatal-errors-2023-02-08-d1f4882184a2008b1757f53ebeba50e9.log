@@ -1,0 +1,9 @@
+2023-02-08T22:10:37+00:00 CRITICAL Uncaught Error: Call to undefined method exertio_get_employers_class::exertio_employers_Array() in C:\xampp\htdocs\wordpress\Exertio\wp-content\themes\exertio1\template-parts\search\employer\search-employers.php:135
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\Exertio\wp-content\themes\exertio1\page-employer-search.php(127): require()
+#1 C:\xampp\htdocs\wordpress\Exertio\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\wordpress\Exertio\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\wordpress\Exertio\index.php(17): require('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\wordpress\Exertio\wp-content\themes\exertio1\template-parts\search\employer\search-employers.php on line 135
+

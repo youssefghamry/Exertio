@@ -1,0 +1,1411 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Exertio Elementor Widgets\n"
+"POT-Creation-Date: 2021-12-22 14:01+0500\n"
+"PO-Revision-Date: 2021-12-22 14:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: exertio-elementor.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: exertio-elementor.php:57
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#: exertio-elementor.php:59 exertio-elementor.php:72
+msgid "Elementor"
+msgstr ""
+
+#: exertio-elementor.php:70 exertio-elementor.php:84
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: exertio-elementor.php:86
+msgid "PHP"
+msgstr ""
+
+#: plugin.php:83
+msgid "Exertio Widgets"
+msgstr ""
+
+#: widgets/about-us.php:13 widgets/about-us.php:42
+msgid "About us"
+msgstr ""
+
+#: widgets/about-us.php:48 widgets/app-1.php:58 widgets/call-to-action.php:48
+#: widgets/call-to-action3.php:48 widgets/call-to-action4.php:48
+msgid "Sub title text"
+msgstr ""
+
+#: widgets/about-us.php:50 widgets/app-1.php:60 widgets/call-to-action.php:50
+#: widgets/call-to-action3.php:50 widgets/call-to-action4.php:50
+msgid "Provide the sub title"
+msgstr ""
+
+#: widgets/about-us.php:52 widgets/about-us.php:60 widgets/about-us.php:62
+#: widgets/app-1.php:50 widgets/app-1.php:52 widgets/app-1.php:62
+#: widgets/call-to-action.php:52 widgets/call-to-action.php:60
+#: widgets/call-to-action.php:62 widgets/call-to-action2.php:50
+#: widgets/call-to-action2.php:52 widgets/call-to-action2.php:95
+#: widgets/call-to-action2.php:97 widgets/call-to-action3.php:52
+#: widgets/call-to-action3.php:60 widgets/call-to-action3.php:62
+#: widgets/call-to-action4.php:52 widgets/call-to-action4.php:60
+#: widgets/call-to-action4.php:62 widgets/contact.php:50
+#: widgets/contact.php:128 widgets/hero-1.php:69 widgets/hero-1.php:71
+#: widgets/hero-2.php:77 widgets/hero-2.php:79 widgets/hero-3.php:95
+#: widgets/hero-3.php:97 widgets/hero-4.php:62 widgets/hero-4.php:64
+#: widgets/hero-slider.php:77 widgets/hero-slider.php:79
+msgid "Provide the main title"
+msgstr ""
+
+#: widgets/about-us.php:58 widgets/app-1.php:48 widgets/call-to-action.php:58
+#: widgets/call-to-action2.php:48 widgets/call-to-action2.php:93
+#: widgets/call-to-action3.php:58 widgets/call-to-action4.php:58
+#: widgets/hero-1.php:67 widgets/hero-2.php:75 widgets/hero-3.php:93
+#: widgets/hero-4.php:60 widgets/hero-slider.php:75
+#: widgets/how-it-works.php:193 widgets/how-it-works2.php:193
+msgid "Main Heading"
+msgstr ""
+
+#: widgets/about-us.php:69 widgets/call-to-action.php:69
+#: widgets/call-to-action2.php:59 widgets/call-to-action2.php:104
+#: widgets/call-to-action3.php:69 widgets/call-to-action4.php:69
+msgid "Description paragraph"
+msgstr ""
+
+#: widgets/about-us.php:71 widgets/about-us.php:73
+#: widgets/call-to-action.php:71 widgets/call-to-action.php:73
+#: widgets/call-to-action2.php:61 widgets/call-to-action2.php:63
+#: widgets/call-to-action2.php:106 widgets/call-to-action2.php:108
+#: widgets/call-to-action3.php:71 widgets/call-to-action3.php:73
+#: widgets/call-to-action4.php:71 widgets/call-to-action4.php:73
+#: widgets/contact.php:60 widgets/contact.php:139
+msgid "Provide description"
+msgstr ""
+
+#: widgets/about-us.php:79 widgets/blog.php:106 widgets/call-to-action.php:79
+#: widgets/call-to-action2.php:69 widgets/call-to-action2.php:114
+#: widgets/call-to-action3.php:79 widgets/call-to-action4.php:79
+#: widgets/category-1.php:117 widgets/category-2.php:116
+#: widgets/category-list.php:149 widgets/exertio-freelancers.php:112
+#: widgets/exertio-projects-with-sidebar.php:126
+#: widgets/exertio-projects.php:105 widgets/exertio-services.php:105
+#: widgets/how-it-works.php:104 widgets/how-it-works.php:230
+#: widgets/how-it-works2.php:104 widgets/pricing.php:138
+#: widgets/pricing2.php:133 widgets/services.php:104
+#: widgets/testimonials-2.php:106 widgets/testimonials.php:106
+msgid "Provide button text"
+msgstr ""
+
+#: widgets/about-us.php:87 widgets/blog.php:132 widgets/call-to-action.php:87
+#: widgets/call-to-action2.php:77 widgets/call-to-action2.php:122
+#: widgets/call-to-action3.php:87 widgets/call-to-action4.php:87
+#: widgets/category-1.php:143 widgets/category-2.php:142
+#: widgets/category-list.php:175 widgets/exertio-freelancers.php:138
+#: widgets/exertio-projects-with-sidebar.php:152
+#: widgets/exertio-projects.php:131 widgets/exertio-services.php:131
+#: widgets/how-it-works.php:130 widgets/how-it-works.php:249
+#: widgets/how-it-works2.php:130 widgets/pricing.php:164
+#: widgets/pricing2.php:159 widgets/services.php:130
+#: widgets/testimonials-2.php:132 widgets/testimonials.php:132
+msgid "Provide button link"
+msgstr ""
+
+#: widgets/about-us.php:95
+msgid "Provide VIdeo link"
+msgstr ""
+
+#: widgets/about-us.php:103 widgets/call-to-action.php:95
+#: widgets/call-to-action3.php:95
+msgid "SideImage"
+msgstr ""
+
+#: widgets/about-us.php:113 widgets/call-to-action.php:105
+#: widgets/call-to-action3.php:113
+msgid "Selecte Image Position"
+msgstr ""
+
+#: widgets/about-us.php:116 widgets/blog.php:75 widgets/call-to-action.php:108
+#: widgets/call-to-action3.php:116 widgets/category-1.php:86
+#: widgets/category-2.php:85 widgets/category-list.php:118
+#: widgets/exertio-freelancers.php:81
+#: widgets/exertio-projects-with-sidebar.php:95 widgets/exertio-projects.php:74
+#: widgets/exertio-services.php:74 widgets/how-it-works.php:73
+#: widgets/how-it-works.php:177 widgets/how-it-works2.php:73
+#: widgets/pricing.php:107 widgets/pricing2.php:102 widgets/services.php:73
+#: widgets/testimonials-2.php:75 widgets/testimonials.php:75
+msgid "Left"
+msgstr ""
+
+#: widgets/about-us.php:117 widgets/call-to-action.php:109
+#: widgets/call-to-action3.php:117 widgets/how-it-works.php:178
+msgid "Right"
+msgstr ""
+
+#: widgets/about-us.php:127 widgets/about-us.php:144
+msgid "Features List"
+msgstr ""
+
+#: widgets/about-us.php:135 widgets/call-to-action3.php:135
+#: widgets/category-list.php:243 widgets/contact.php:77
+msgid "Title"
+msgstr ""
+
+#: widgets/about-us.php:137 widgets/contact.php:79
+msgid "List Title"
+msgstr ""
+
+#: widgets/about-us.php:155 widgets/facts-counter.php:13
+#: widgets/facts-counter.php:42
+msgid "Facts Counter"
+msgstr ""
+
+#: widgets/about-us.php:162
+msgid "Section Visibility"
+msgstr ""
+
+#: widgets/about-us.php:165 widgets/blog.php:87 widgets/category-1.php:98
+#: widgets/category-2.php:97 widgets/category-list.php:130
+#: widgets/exertio-freelancers.php:93
+#: widgets/exertio-projects-with-sidebar.php:107
+#: widgets/exertio-projects.php:86 widgets/exertio-services.php:86
+#: widgets/hero-1.php:91 widgets/hero-2.php:99 widgets/hero-3.php:117
+#: widgets/hero-slider.php:99 widgets/how-it-works.php:85
+#: widgets/how-it-works.php:222 widgets/how-it-works2.php:85
+#: widgets/pricing.php:119 widgets/pricing.php:275 widgets/pricing.php:362
+#: widgets/pricing2.php:114 widgets/pricing2.php:270 widgets/pricing2.php:368
+#: widgets/services.php:85 widgets/testimonials-2.php:87
+#: widgets/testimonials.php:87
+msgid "Yes"
+msgstr ""
+
+#: widgets/about-us.php:166 widgets/hero-1.php:90 widgets/hero-2.php:98
+#: widgets/hero-3.php:116 widgets/hero-slider.php:98 widgets/pricing.php:276
+#: widgets/pricing.php:363 widgets/pricing2.php:271 widgets/pricing2.php:369
+msgid "No"
+msgstr ""
+
+#: widgets/about-us.php:178 widgets/facts-counter.php:64
+msgid "Counter Icon"
+msgstr ""
+
+#: widgets/about-us.php:188 widgets/facts-counter.php:84
+msgid "Counter Title"
+msgstr ""
+
+#: widgets/about-us.php:196 widgets/facts-counter.php:92
+msgid "Value in Digits"
+msgstr ""
+
+#: widgets/about-us.php:207 widgets/facts-counter.php:103
+msgid "Counters"
+msgstr ""
+
+#: widgets/app-1.php:13
+msgid "App Section 1"
+msgstr ""
+
+#: widgets/app-1.php:42
+msgid "App Section one Content"
+msgstr ""
+
+#: widgets/app-1.php:70
+msgid "Main image"
+msgstr ""
+
+#: widgets/app-1.php:82
+msgid "Store Icons"
+msgstr ""
+
+#: widgets/app-1.php:91 widgets/call-to-action3.php:151 widgets/contact.php:95
+#: widgets/contact.php:119
+msgid "Choose icon"
+msgstr ""
+
+#: widgets/app-1.php:98
+msgid "Provide link"
+msgstr ""
+
+#: widgets/app-1.php:107 widgets/call-to-action3.php:159
+#: widgets/contact.php:103 widgets/hero-slider.php:255
+msgid "Boxes List"
+msgstr ""
+
+#: widgets/blog.php:13
+msgid "Exertio Blog"
+msgstr ""
+
+#: widgets/blog.php:44 widgets/category-1.php:55 widgets/category-2.php:54
+#: widgets/category-list.php:87 widgets/exertio-freelancers.php:50
+#: widgets/exertio-projects-with-sidebar.php:64 widgets/exertio-projects.php:43
+#: widgets/exertio-services.php:43 widgets/how-it-works.php:42
+#: widgets/how-it-works2.php:42 widgets/pricing.php:76 widgets/pricing2.php:71
+#: widgets/services.php:42 widgets/testimonials-2.php:44
+#: widgets/testimonials.php:44
+msgid "Section Heading"
+msgstr ""
+
+#: widgets/blog.php:50 widgets/category-1.php:61 widgets/category-2.php:60
+#: widgets/category-list.php:93 widgets/exertio-freelancers.php:56
+#: widgets/exertio-projects-with-sidebar.php:70 widgets/exertio-projects.php:49
+#: widgets/exertio-services.php:49 widgets/how-it-works.php:48
+#: widgets/how-it-works2.php:48 widgets/pricing.php:82 widgets/pricing2.php:77
+#: widgets/services.php:48 widgets/testimonials-2.php:50
+#: widgets/testimonials.php:50
+msgid "Heading Text"
+msgstr ""
+
+#: widgets/blog.php:52 widgets/category-1.php:63 widgets/category-2.php:62
+#: widgets/category-list.php:95 widgets/exertio-freelancers.php:58
+#: widgets/exertio-projects-with-sidebar.php:72 widgets/exertio-projects.php:51
+#: widgets/exertio-services.php:51 widgets/how-it-works.php:50
+#: widgets/how-it-works2.php:50 widgets/pricing.php:84 widgets/pricing2.php:79
+#: widgets/services.php:50 widgets/testimonials-2.php:52
+#: widgets/testimonials.php:52
+msgid "Main Heading text"
+msgstr ""
+
+#: widgets/blog.php:60 widgets/category-1.php:71 widgets/category-2.php:70
+#: widgets/category-list.php:103 widgets/exertio-freelancers.php:66
+#: widgets/exertio-projects-with-sidebar.php:80 widgets/exertio-projects.php:59
+#: widgets/exertio-services.php:59 widgets/how-it-works.php:58
+#: widgets/how-it-works2.php:58 widgets/pricing.php:92 widgets/pricing2.php:87
+#: widgets/services.php:58 widgets/testimonials-2.php:60
+#: widgets/testimonials.php:60
+msgid "Subtitle Here"
+msgstr ""
+
+#: widgets/blog.php:63 widgets/category-1.php:74 widgets/category-2.php:73
+#: widgets/category-list.php:106 widgets/exertio-freelancers.php:69
+#: widgets/exertio-projects-with-sidebar.php:83 widgets/exertio-projects.php:62
+#: widgets/exertio-services.php:62 widgets/hero-1.php:81 widgets/hero-2.php:89
+#: widgets/hero-3.php:107 widgets/hero-4.php:74 widgets/hero-slider.php:89
+#: widgets/how-it-works.php:61 widgets/how-it-works2.php:61
+#: widgets/pricing.php:95 widgets/pricing2.php:90 widgets/services.php:61
+#: widgets/testimonials-2.php:63 widgets/testimonials.php:63
+msgid "Type your description here"
+msgstr ""
+
+#: widgets/blog.php:69 widgets/category-1.php:80 widgets/category-2.php:79
+#: widgets/category-list.php:112 widgets/exertio-freelancers.php:75
+#: widgets/exertio-projects-with-sidebar.php:89 widgets/exertio-projects.php:68
+#: widgets/exertio-services.php:68 widgets/how-it-works.php:67
+#: widgets/how-it-works2.php:67 widgets/pricing.php:101 widgets/pricing2.php:96
+#: widgets/services.php:67 widgets/testimonials-2.php:69
+#: widgets/testimonials.php:69
+msgid "Heading Style"
+msgstr ""
+
+#: widgets/blog.php:74 widgets/category-1.php:85 widgets/category-2.php:84
+#: widgets/category-list.php:117 widgets/exertio-freelancers.php:80
+#: widgets/exertio-projects-with-sidebar.php:94 widgets/exertio-projects.php:73
+#: widgets/exertio-services.php:73 widgets/how-it-works.php:72
+#: widgets/how-it-works2.php:72 widgets/pricing.php:106
+#: widgets/pricing2.php:101 widgets/services.php:72
+#: widgets/testimonials-2.php:74 widgets/testimonials.php:74
+msgid "Center"
+msgstr ""
+
+#: widgets/blog.php:82 widgets/category-1.php:93 widgets/category-2.php:92
+#: widgets/category-list.php:125 widgets/exertio-freelancers.php:88
+#: widgets/exertio-projects-with-sidebar.php:102
+#: widgets/exertio-projects.php:81 widgets/exertio-services.php:81
+#: widgets/how-it-works.php:80 widgets/how-it-works2.php:80
+#: widgets/pricing.php:114 widgets/pricing2.php:109 widgets/services.php:80
+#: widgets/testimonials-2.php:82 widgets/testimonials.php:82
+msgid "Want to show heading side button"
+msgstr ""
+
+#: widgets/blog.php:88 widgets/category-1.php:99 widgets/category-2.php:98
+#: widgets/category-list.php:131 widgets/exertio-freelancers.php:94
+#: widgets/exertio-projects-with-sidebar.php:108
+#: widgets/exertio-projects.php:87 widgets/exertio-services.php:87
+#: widgets/how-it-works.php:86 widgets/how-it-works.php:223
+#: widgets/how-it-works2.php:86 widgets/pricing.php:120
+#: widgets/pricing2.php:115 widgets/services.php:86
+#: widgets/testimonials-2.php:88 widgets/testimonials.php:88
+msgid "NO"
+msgstr ""
+
+#: widgets/blog.php:163
+msgid "Blog"
+msgstr ""
+
+#: widgets/blog.php:169
+msgid "Title Limit in Words"
+msgstr ""
+
+#: widgets/blog.php:177
+msgid "Desciption Limit in words"
+msgstr ""
+
+#: widgets/blog.php:185
+msgid "Number of posts"
+msgstr ""
+
+#: widgets/blog.php:194 widgets/exertio-freelancers.php:200
+#: widgets/exertio-services.php:204 widgets/how-it-works2.php:169
+#: widgets/services.php:169
+msgid "Grids Cols"
+msgstr ""
+
+#: widgets/blog.php:197 widgets/category-list.php:216
+#: widgets/exertio-freelancers.php:203 widgets/exertio-services.php:207
+#: widgets/how-it-works2.php:172 widgets/pricing.php:217
+#: widgets/pricing2.php:212 widgets/services.php:172
+msgid "4 in a row"
+msgstr ""
+
+#: widgets/blog.php:198 widgets/exertio-freelancers.php:204
+#: widgets/exertio-services.php:208 widgets/how-it-works2.php:173
+#: widgets/pricing.php:216 widgets/pricing2.php:211 widgets/services.php:173
+msgid "3 in a row"
+msgstr ""
+
+#: widgets/blog.php:199 widgets/category-list.php:218
+#: widgets/exertio-freelancers.php:205 widgets/exertio-projects.php:198
+#: widgets/exertio-services.php:209 widgets/how-it-works2.php:174
+#: widgets/services.php:174
+msgid "2 in a row"
+msgstr ""
+
+#: widgets/call-to-action.php:13
+msgid "Call to action 1"
+msgstr ""
+
+#: widgets/call-to-action.php:42
+msgid "Call to action one Content"
+msgstr ""
+
+#: widgets/call-to-action2.php:13
+msgid "Call to action 2"
+msgstr ""
+
+#: widgets/call-to-action2.php:42
+msgid "Right Side"
+msgstr ""
+
+#: widgets/call-to-action2.php:87
+msgid "Left Side"
+msgstr ""
+
+#: widgets/call-to-action3.php:13
+msgid "Call to action 3"
+msgstr ""
+
+#: widgets/call-to-action3.php:42
+msgid "Call to action three Content"
+msgstr ""
+
+#: widgets/call-to-action3.php:105
+msgid "Provide Image height"
+msgstr ""
+
+#: widgets/call-to-action3.php:127
+msgid "Features Boxes"
+msgstr ""
+
+#: widgets/call-to-action3.php:143 widgets/category-list.php:232
+#: widgets/contact.php:86
+msgid "Content"
+msgstr ""
+
+#: widgets/call-to-action4.php:13
+msgid "Call to action 4"
+msgstr ""
+
+#: widgets/call-to-action4.php:42
+msgid "Call to action four Content"
+msgstr ""
+
+#: widgets/call-to-action4.php:95
+msgid "Provide button two text"
+msgstr ""
+
+#: widgets/call-to-action4.php:103
+msgid "Provide button two link"
+msgstr ""
+
+#: widgets/category-1.php:13
+msgid "Category Section 1"
+msgstr ""
+
+#: widgets/category-1.php:172 widgets/category-2.php:171
+msgid "Category Selector"
+msgstr ""
+
+#: widgets/category-1.php:179 widgets/category-2.php:178 widgets/hero-1.php:57
+#: widgets/hero-2.php:56 widgets/hero-2.php:228 widgets/hero-3.php:74
+#: widgets/hero-3.php:246 widgets/hero-slider.php:56
+#: widgets/hero-slider.php:228
+msgid "Used For"
+msgstr ""
+
+#: widgets/category-1.php:182 widgets/category-2.php:181
+msgid "Project Categories"
+msgstr ""
+
+#: widgets/category-1.php:183 widgets/category-2.php:182
+msgid "Services Categories"
+msgstr ""
+
+#: widgets/category-1.php:194 widgets/category-2.php:193
+#: widgets/services.php:162
+msgid "Project category selection"
+msgstr ""
+
+#: widgets/category-1.php:215 widgets/category-1.php:291
+#: widgets/category-2.php:214 widgets/category-2.php:279
+msgid "Select Category"
+msgstr ""
+
+#: widgets/category-1.php:224 widgets/category-1.php:300
+msgid "Background Image"
+msgstr ""
+
+#: widgets/category-1.php:234 widgets/category-1.php:310
+#: widgets/facts-counter.php:74 widgets/testimonials-2.php:163
+msgid "Icon"
+msgstr ""
+
+#: widgets/category-1.php:246 widgets/category-1.php:322
+#: widgets/category-2.php:235 widgets/category-2.php:300
+msgid "Category List"
+msgstr ""
+
+#: widgets/category-1.php:251 widgets/category-1.php:327
+#: widgets/category-2.php:240 widgets/category-2.php:305
+msgid "Category #1"
+msgstr ""
+
+#: widgets/category-1.php:254 widgets/category-1.php:330
+#: widgets/category-2.php:243 widgets/category-2.php:308
+msgid "Category #2"
+msgstr ""
+
+#: widgets/category-1.php:270 widgets/category-2.php:258
+msgid "Services category selection"
+msgstr ""
+
+#: widgets/category-2.php:13
+msgid "Category Section 2"
+msgstr ""
+
+#: widgets/category-2.php:223 widgets/services.php:185
+msgid "icon Image"
+msgstr ""
+
+#: widgets/category-2.php:288
+msgid "Icon Image"
+msgstr ""
+
+#: widgets/category-list.php:13
+msgid "Skills and Category List"
+msgstr ""
+
+#: widgets/category-list.php:206
+msgid "List One"
+msgstr ""
+
+#: widgets/category-list.php:212 widgets/category-list.php:252
+msgid "Select option for list one"
+msgstr ""
+
+#: widgets/category-list.php:215
+msgid "6 in a row"
+msgstr ""
+
+#: widgets/category-list.php:217
+msgid "3 ina row"
+msgstr ""
+
+#: widgets/category-list.php:219 widgets/exertio-freelancers.php:206
+#: widgets/exertio-projects.php:197 widgets/exertio-services.php:210
+#: widgets/how-it-works2.php:175 widgets/services.php:175
+msgid "1 in a row"
+msgstr ""
+
+#: widgets/category-list.php:245 widgets/hero-1.php:142 widgets/hero-2.php:150
+#: widgets/hero-3.php:168 widgets/hero-slider.php:150
+msgid "Type your title here"
+msgstr ""
+
+#: widgets/category-list.php:255
+msgid "Project category"
+msgstr ""
+
+#: widgets/category-list.php:256
+msgid "Project skills"
+msgstr ""
+
+#: widgets/category-list.php:257
+msgid "Services category"
+msgstr ""
+
+#: widgets/category-list.php:258
+msgid "Freelancer skills"
+msgstr ""
+
+#: widgets/category-list.php:259
+msgid "Project Locations"
+msgstr ""
+
+#: widgets/category-list.php:260
+msgid "Services Locations"
+msgstr ""
+
+#: widgets/category-list.php:261
+msgid "Employer Locations"
+msgstr ""
+
+#: widgets/category-list.php:262
+msgid "Freelancer Locations"
+msgstr ""
+
+#: widgets/category-list.php:272
+msgid "Select Project Categories"
+msgstr ""
+
+#: widgets/category-list.php:291
+msgid "Select project Skills"
+msgstr ""
+
+#: widgets/category-list.php:310
+msgid "Select Servcies Categories"
+msgstr ""
+
+#: widgets/category-list.php:329
+msgid "Select Freelancer Skills"
+msgstr ""
+
+#: widgets/category-list.php:348
+msgid "Select Project Locations"
+msgstr ""
+
+#: widgets/category-list.php:367
+msgid "Select Services Locations"
+msgstr ""
+
+#: widgets/category-list.php:386
+msgid "Select Employers Locations"
+msgstr ""
+
+#: widgets/category-list.php:405
+msgid "Select Freelancer Locations"
+msgstr ""
+
+#: widgets/category-list.php:425
+msgid "You can select multiple values"
+msgstr ""
+
+#: widgets/contact.php:13
+msgid "Contact Us"
+msgstr ""
+
+#: widgets/contact.php:42
+msgid "Sidebar"
+msgstr ""
+
+#: widgets/contact.php:48
+msgid "Sidebar Heading"
+msgstr ""
+
+#: widgets/contact.php:58 widgets/contact.php:137
+msgid "Sidebar Description"
+msgstr ""
+
+#: widgets/contact.php:69
+msgid "Sidebar Boxes"
+msgstr ""
+
+#: widgets/contact.php:88
+msgid "List Content"
+msgstr ""
+
+#: widgets/contact.php:113
+msgid "Main section"
+msgstr ""
+
+#: widgets/contact.php:126 widgets/services.php:195
+msgid "Heading"
+msgstr ""
+
+#: widgets/contact.php:146
+msgid "Contact Form Short code"
+msgstr ""
+
+#: widgets/contact.php:148
+msgid "Provide provide contact form Short code"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:13
+msgid "Exertio Freelancers"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:167
+msgid "Exertio Freelancer"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:174
+msgid "Selecte Freelancer Grid Style"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:177 widgets/exertio-services.php:170
+msgid "Style 1"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:178 widgets/exertio-services.php:171
+msgid "Style 2"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:186
+msgid "Selecte Freelancer Type"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:189
+#: widgets/exertio-projects-with-sidebar.php:205
+#: widgets/exertio-projects.php:184 widgets/exertio-services.php:182
+#: widgets/pricing.php:286 widgets/pricing.php:373 widgets/pricing2.php:281
+#: widgets/pricing2.php:379
+msgid "Featured"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:190
+#: widgets/exertio-projects-with-sidebar.php:206
+#: widgets/exertio-projects.php:185 widgets/exertio-services.php:183
+msgid "Simple"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:191
+#: widgets/exertio-projects-with-sidebar.php:207
+#: widgets/exertio-projects.php:186 widgets/exertio-services.php:184
+msgid "Both"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:214
+msgid "Number of freelancers to show"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:217 widgets/exertio-projects.php:221
+#: widgets/exertio-services.php:232
+msgid "2"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:218 widgets/exertio-projects.php:222
+#: widgets/exertio-services.php:233
+msgid "4"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:219 widgets/exertio-projects.php:223
+#: widgets/exertio-services.php:234
+msgid "6"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:220 widgets/exertio-projects.php:224
+#: widgets/exertio-services.php:235
+msgid "8"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:221
+#: widgets/exertio-projects-with-sidebar.php:220
+#: widgets/exertio-projects.php:225 widgets/exertio-services.php:236
+msgid "10"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:222 widgets/exertio-projects.php:226
+#: widgets/exertio-services.php:237
+msgid "12"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:223 widgets/exertio-projects.php:227
+#: widgets/exertio-services.php:238
+msgid "14"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:224 widgets/exertio-projects.php:228
+#: widgets/exertio-services.php:239
+msgid "16"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:225 widgets/exertio-projects.php:229
+#: widgets/exertio-services.php:240
+msgid "18"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:226
+#: widgets/exertio-projects-with-sidebar.php:222
+#: widgets/exertio-projects.php:230 widgets/exertio-services.php:241
+msgid "20"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:227 widgets/exertio-projects.php:231
+#: widgets/exertio-services.php:242
+msgid "22"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:228 widgets/exertio-projects.php:232
+#: widgets/exertio-services.php:243
+msgid "24"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:229 widgets/exertio-projects.php:233
+#: widgets/exertio-services.php:244
+msgid "26"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:230 widgets/exertio-projects.php:234
+#: widgets/exertio-services.php:245
+msgid "28"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:231
+#: widgets/exertio-projects-with-sidebar.php:224
+#: widgets/exertio-projects.php:235 widgets/exertio-services.php:246
+msgid "30"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:232 widgets/exertio-projects.php:236
+#: widgets/exertio-services.php:247
+msgid "32"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:233 widgets/exertio-projects.php:237
+#: widgets/exertio-services.php:248
+msgid "34"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:234 widgets/exertio-projects.php:238
+#: widgets/exertio-services.php:249
+msgid "36"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:235 widgets/exertio-projects.php:239
+#: widgets/exertio-services.php:250
+msgid "38"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:236 widgets/exertio-freelancers.php:237
+#: widgets/exertio-freelancers.php:238
+#: widgets/exertio-projects-with-sidebar.php:226
+#: widgets/exertio-projects.php:240 widgets/exertio-projects.php:241
+#: widgets/exertio-projects.php:242 widgets/exertio-services.php:251
+#: widgets/exertio-services.php:252 widgets/exertio-services.php:253
+msgid "40"
+msgstr ""
+
+#: widgets/exertio-freelancers.php:239
+#: widgets/exertio-projects-with-sidebar.php:229
+#: widgets/exertio-projects.php:243 widgets/exertio-services.php:254
+msgid "All"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:13
+msgid "Exertio Projects With Sidebar"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:181
+#: widgets/exertio-projects.php:13 widgets/exertio-projects.php:160
+msgid "Exertio Projects"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:188
+#: widgets/exertio-projects.php:167
+msgid "Selecte Project List Style"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:191
+#: widgets/exertio-projects.php:170
+msgid "List 1"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:192
+#: widgets/exertio-projects.php:171
+msgid "List 2"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:193
+#: widgets/exertio-projects.php:172
+msgid "List 3"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:194
+#: widgets/exertio-projects.php:173
+msgid "List 4"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:202
+#: widgets/exertio-projects.php:181
+msgid "Selecte Project Type"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:216
+#: widgets/exertio-projects.php:218
+msgid "Number of Projects to show"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:219
+msgid "5"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:221
+msgid "15"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:223
+msgid "25"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:225
+msgid "35"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:227
+msgid "45"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:228
+msgid "50"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:239
+msgid "Freelancer Section"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:245
+msgid "Heading for Freelancer section"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:253
+msgid "Gride Style"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:256
+msgid "Grid 1"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:257
+msgid "Grid 2"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:258
+msgid "Grid 3"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:268 widgets/hero-3.php:265
+msgid "Select Freelancer"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:278 widgets/hero-3.php:282
+msgid "Freelancers"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:288
+msgid "Advertisment Section"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:294
+msgid "Advertisement At Top of sidebar"
+msgstr ""
+
+#: widgets/exertio-projects-with-sidebar.php:302
+msgid "Advertisement At Bottom of sidebar"
+msgstr ""
+
+#: widgets/exertio-projects.php:194
+msgid "Lists in a Row"
+msgstr ""
+
+#: widgets/exertio-services.php:13 widgets/exertio-services.php:160
+msgid "Exertio Services"
+msgstr ""
+
+#: widgets/exertio-services.php:167
+msgid "Selecte Services Grid Style"
+msgstr ""
+
+#: widgets/exertio-services.php:179
+msgid "Selecte Services Type"
+msgstr ""
+
+#: widgets/exertio-services.php:192
+msgid "Slider or Grids"
+msgstr ""
+
+#: widgets/exertio-services.php:195
+msgid "Slider"
+msgstr ""
+
+#: widgets/exertio-services.php:196
+msgid "Grids"
+msgstr ""
+
+#: widgets/exertio-services.php:229
+msgid "Number of services to show"
+msgstr ""
+
+#: widgets/facts-counter.php:48
+msgid "Section Position"
+msgstr ""
+
+#: widgets/facts-counter.php:51
+msgid "Middle of section"
+msgstr ""
+
+#: widgets/facts-counter.php:52
+msgid "With in section"
+msgstr ""
+
+#: widgets/hero-1.php:13
+msgid "Hero Section 1"
+msgstr ""
+
+#: widgets/hero-1.php:51
+msgid "Hero Section one Content"
+msgstr ""
+
+#: widgets/hero-1.php:78 widgets/hero-2.php:86 widgets/hero-3.php:104
+#: widgets/hero-4.php:71 widgets/hero-slider.php:86
+#: widgets/how-it-works.php:209 widgets/how-it-works2.php:201
+#: widgets/services.php:203
+msgid "Description"
+msgstr ""
+
+#: widgets/hero-1.php:87 widgets/hero-2.php:95 widgets/hero-3.php:113
+#: widgets/hero-slider.php:95
+msgid "Want to show search field?"
+msgstr ""
+
+#: widgets/hero-1.php:100 widgets/hero-1.php:102 widgets/hero-2.php:108
+#: widgets/hero-2.php:110 widgets/hero-3.php:126 widgets/hero-3.php:128
+#: widgets/hero-slider.php:108 widgets/hero-slider.php:110
+msgid "Search Field placeholder text"
+msgstr ""
+
+#: widgets/hero-1.php:120 widgets/hero-1.php:122 widgets/hero-2.php:128
+#: widgets/hero-2.php:130 widgets/hero-3.php:146 widgets/hero-3.php:148
+#: widgets/hero-slider.php:128 widgets/hero-slider.php:130
+msgid "Select Field placeholder text"
+msgstr ""
+
+#: widgets/hero-1.php:140 widgets/hero-2.php:148 widgets/hero-3.php:166
+#: widgets/hero-slider.php:148
+msgid "Search Button Title"
+msgstr ""
+
+#: widgets/hero-1.php:161 widgets/hero-2.php:210 widgets/hero-3.php:228
+#: widgets/hero-slider.php:210
+msgid "Keyword area title"
+msgstr ""
+
+#: widgets/hero-1.php:163 widgets/hero-2.php:212 widgets/hero-3.php:230
+#: widgets/hero-slider.php:212
+msgid "This will be only title"
+msgstr ""
+
+#: widgets/hero-1.php:170
+msgid "Select Keywords"
+msgstr ""
+
+#: widgets/hero-1.php:183 widgets/hero-2.php:169 widgets/hero-3.php:187
+#: widgets/hero-slider.php:169
+msgid "Video button heading"
+msgstr ""
+
+#: widgets/hero-1.php:185 widgets/hero-2.php:171 widgets/hero-3.php:189
+#: widgets/hero-slider.php:171
+msgid "Video button heading here"
+msgstr ""
+
+#: widgets/hero-1.php:193 widgets/hero-2.php:177 widgets/hero-3.php:195
+#: widgets/hero-slider.php:177
+msgid "Video Description area"
+msgstr ""
+
+#: widgets/hero-1.php:195 widgets/hero-2.php:179 widgets/hero-3.php:197
+#: widgets/hero-slider.php:179
+msgid "Provide Video description text"
+msgstr ""
+
+#: widgets/hero-1.php:203 widgets/hero-2.php:187 widgets/hero-3.php:205
+#: widgets/hero-slider.php:187
+msgid "Video Link"
+msgstr ""
+
+#: widgets/hero-1.php:205 widgets/hero-2.php:189 widgets/hero-3.php:207
+#: widgets/hero-slider.php:189
+msgid "provide video link here"
+msgstr ""
+
+#: widgets/hero-1.php:218
+msgid "Brand Images and Links"
+msgstr ""
+
+#: widgets/hero-1.php:226
+msgid "Left part Image 1"
+msgstr ""
+
+#: widgets/hero-1.php:236
+msgid "Left part Image 1 URL"
+msgstr ""
+
+#: widgets/hero-1.php:238 widgets/hero-1.php:262 widgets/hero-1.php:286
+#: widgets/hero-1.php:310 widgets/hero-1.php:334 widgets/hero-1.php:358
+msgid "provide link here"
+msgstr ""
+
+#: widgets/hero-1.php:250
+msgid "Left part Image 2"
+msgstr ""
+
+#: widgets/hero-1.php:260
+msgid "Left part Image 2 URL"
+msgstr ""
+
+#: widgets/hero-1.php:274
+msgid "Left part Image 3"
+msgstr ""
+
+#: widgets/hero-1.php:284
+msgid "Left part Image 3 URL"
+msgstr ""
+
+#: widgets/hero-1.php:298
+msgid "Right part Image 1"
+msgstr ""
+
+#: widgets/hero-1.php:308
+msgid "Right part Image 1 URL"
+msgstr ""
+
+#: widgets/hero-1.php:322
+msgid "Right part Image 2"
+msgstr ""
+
+#: widgets/hero-1.php:332
+msgid "Right part Image 2 URL"
+msgstr ""
+
+#: widgets/hero-1.php:346
+msgid "Right part Image 3"
+msgstr ""
+
+#: widgets/hero-1.php:356
+msgid "Right part Image 3 URL"
+msgstr ""
+
+#: widgets/hero-2.php:13
+msgid "Hero Section 2"
+msgstr ""
+
+#: widgets/hero-2.php:50
+msgid "Hero Section two Content"
+msgstr ""
+
+#: widgets/hero-2.php:66 widgets/hero-3.php:84 widgets/hero-4.php:51
+#: widgets/hero-slider.php:66 widgets/how-it-works.php:201
+msgid "Sub Heading"
+msgstr ""
+
+#: widgets/hero-2.php:68 widgets/hero-3.php:86 widgets/hero-4.php:53
+#: widgets/hero-slider.php:68
+msgid "Provide the sub heading text"
+msgstr ""
+
+#: widgets/hero-2.php:204 widgets/hero-3.php:222 widgets/hero-slider.php:204
+msgid "Keyword section"
+msgstr ""
+
+#: widgets/hero-2.php:219 widgets/hero-3.php:237 widgets/hero-slider.php:219
+msgid "Select Keywords (separated by | Sign)"
+msgstr ""
+
+#: widgets/hero-2.php:221 widgets/hero-3.php:239 widgets/hero-slider.php:221
+msgid "You can give multiple keywords separated by | Sign"
+msgstr ""
+
+#: widgets/hero-3.php:13
+msgid "Hero Section 3"
+msgstr ""
+
+#: widgets/hero-3.php:68
+msgid "Hero Section Three Content"
+msgstr ""
+
+#: widgets/hero-3.php:257
+msgid "Select Slider destail "
+msgstr ""
+
+#: widgets/hero-3.php:274
+msgid "Freelancer Image"
+msgstr ""
+
+#: widgets/hero-4.php:13
+msgid "Hero Section 4"
+msgstr ""
+
+#: widgets/hero-4.php:44
+msgid "Hero Section four Content"
+msgstr ""
+
+#: widgets/hero-4.php:81
+msgid "Primary button text"
+msgstr ""
+
+#: widgets/hero-4.php:89
+msgid "Primary Button Link"
+msgstr ""
+
+#: widgets/hero-4.php:91 widgets/hero-4.php:113
+msgid "Provide link here"
+msgstr ""
+
+#: widgets/hero-4.php:103
+msgid "Secondary button text"
+msgstr ""
+
+#: widgets/hero-4.php:111
+msgid "Secondary button link"
+msgstr ""
+
+#: widgets/hero-4.php:125 widgets/testimonials.php:163
+msgid "Main Image"
+msgstr ""
+
+#: widgets/hero-4.php:137
+msgid "Clients Content"
+msgstr ""
+
+#: widgets/hero-4.php:143
+msgid "Client Heading Text"
+msgstr ""
+
+#: widgets/hero-4.php:151
+msgid "Clients Description Text"
+msgstr ""
+
+#: widgets/hero-4.php:159
+msgid "Add clients logos"
+msgstr ""
+
+#: widgets/hero-slider.php:13
+msgid "Hero Section Slider"
+msgstr ""
+
+#: widgets/hero-slider.php:50
+msgid "Hero Section Slider Content"
+msgstr ""
+
+#: widgets/hero-slider.php:238
+msgid "Slider section"
+msgstr ""
+
+#: widgets/hero-slider.php:246
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/how-it-works.php:13
+msgid "How It Works"
+msgstr ""
+
+#: widgets/how-it-works.php:162 widgets/how-it-works2.php:162
+msgid "Section "
+msgstr ""
+
+#: widgets/how-it-works.php:172
+msgid "Side Image Position"
+msgstr ""
+
+#: widgets/how-it-works.php:186
+msgid "Side Image"
+msgstr ""
+
+#: widgets/how-it-works.php:217
+msgid "Want to show heading button"
+msgstr ""
+
+#: widgets/how-it-works.php:269 widgets/how-it-works2.php:211
+msgid "Section List"
+msgstr ""
+
+#: widgets/how-it-works2.php:13
+msgid "How It Works Two"
+msgstr ""
+
+#: widgets/how-it-works2.php:186
+msgid "icon"
+msgstr ""
+
+#: widgets/pricing.php:13
+msgid "Prcing Packages"
+msgstr ""
+
+#: widgets/pricing.php:195 widgets/pricing2.php:190
+msgid "Select Packages"
+msgstr ""
+
+#: widgets/pricing.php:201 widgets/pricing2.php:196
+msgid "Selecte Package Type"
+msgstr ""
+
+#: widgets/pricing.php:204 widgets/pricing2.php:199
+msgid "For Employers"
+msgstr ""
+
+#: widgets/pricing.php:205 widgets/pricing2.php:200
+msgid "For Freelancers"
+msgstr ""
+
+#: widgets/pricing.php:213 widgets/pricing2.php:208
+msgid "Selecte SIze"
+msgstr ""
+
+#: widgets/pricing.php:230 widgets/pricing2.php:225
+msgid "Employers Packages list"
+msgstr ""
+
+#: widgets/pricing.php:248 widgets/pricing.php:336 widgets/pricing2.php:243
+#: widgets/pricing2.php:342
+msgid "Background Color"
+msgstr ""
+
+#: widgets/pricing.php:252 widgets/pricing.php:340 widgets/pricing2.php:247
+#: widgets/pricing2.php:346
+msgid "Black"
+msgstr ""
+
+#: widgets/pricing.php:253 widgets/pricing.php:341 widgets/pricing2.php:248
+msgid "White"
+msgstr ""
+
+#: widgets/pricing.php:261 widgets/pricing2.php:256
+msgid "Select Employer Packages"
+msgstr ""
+
+#: widgets/pricing.php:271 widgets/pricing.php:358 widgets/pricing2.php:266
+#: widgets/pricing2.php:364
+msgid "Is featured"
+msgstr ""
+
+#: widgets/pricing.php:284 widgets/pricing.php:371 widgets/pricing2.php:279
+#: widgets/pricing2.php:377
+msgid "Text to show on badge"
+msgstr ""
+
+#: widgets/pricing.php:304 widgets/pricing2.php:299
+msgid "Employers Packages List"
+msgstr ""
+
+#: widgets/pricing.php:317 widgets/pricing2.php:323
+msgid "Freelancers Packages"
+msgstr ""
+
+#: widgets/pricing.php:349 widgets/pricing2.php:355
+msgid "Select Freelancer Packages"
+msgstr ""
+
+#: widgets/pricing.php:391 widgets/pricing2.php:397
+msgid "Freelancer Packages List"
+msgstr ""
+
+#: widgets/pricing2.php:13
+msgid "Prcing Packages 2"
+msgstr ""
+
+#: widgets/pricing2.php:347
+msgid "Colored"
+msgstr ""
+
+#: widgets/services.php:13
+msgid "Services Section"
+msgstr ""
+
+#: widgets/services.php:213
+msgid "Services List"
+msgstr ""
+
+#: widgets/testimonials-2.php:13
+msgid "Testimonials Two"
+msgstr ""
+
+#: widgets/testimonials-2.php:169
+msgid "Quote Icon"
+msgstr ""
+
+#: widgets/testimonials-2.php:178 widgets/testimonials.php:13
+#: widgets/testimonials.php:181
+msgid "Testimonials"
+msgstr ""
+
+#: widgets/testimonials-2.php:186 widgets/testimonials.php:189
+msgid "User Image"
+msgstr ""
+
+#: widgets/testimonials-2.php:196 widgets/testimonials.php:215
+msgid "Review Description"
+msgstr ""
+
+#: widgets/testimonials-2.php:204 widgets/testimonials.php:223
+msgid "Customer Name"
+msgstr ""
+
+#: widgets/testimonials-2.php:212
+msgid "Designation"
+msgstr ""
+
+#: widgets/testimonials-2.php:221 widgets/testimonials.php:240
+msgid "Testimonial List"
+msgstr ""
+
+#: widgets/testimonials.php:169
+msgid "main Image"
+msgstr ""
+
+#: widgets/testimonials.php:199
+msgid "Provide Subheading text"
+msgstr ""
+
+#: widgets/testimonials.php:207
+msgid "Heading text"
+msgstr ""
+
+#: widgets/testimonials.php:231
+msgid "Customer Designation"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Exertio Elementor Widgets"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.exertio-wp.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin can only be used with Exertio - Freelance Marketplace and "
+"Directory WordPress Theme. Tis will add new sections and design blocks for "
+"the Elelmentor plugin to use in Exerti Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Scripts Bundle"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://scriptsbundle.com/"
+msgstr ""

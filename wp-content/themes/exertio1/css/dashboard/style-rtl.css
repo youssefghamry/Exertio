@@ -1,0 +1,196 @@
+/* DASHBOARD RTL CSS */
+.rtl .nav {
+    padding-right: 0;
+}
+.rtl .info-boxes .metric .icon {
+    margin-right: 0;
+    margin-left: 10px;
+	float: right;
+}
+.rtl .info-boxes .matric-bottom a {
+    text-align: right;
+}
+.rtl .info-boxes .matric-bottom i {
+    float: left;
+	-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.rtl .package-info ul li img {
+    width: 20px;
+    height: 20px;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .current-package-widget ul li span {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .card-body .view-more-btn {
+    right: auto;
+    left: 30px;
+}
+.rtl .card-title {
+    text-align: right;
+}
+.rtl .card.tips p {
+    padding-left: 0;
+    padding-right: 30px;
+}
+.rtl .most-viewed-widget .card-img-actions {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .media-body {
+    -ms-flex: 1;
+    flex: 1;
+    text-align: right;
+}
+.rtl .most-viewed-widget .listing-widgets .media-body ul li i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .sidebar .nav.sub-menu {
+    padding: 0.25rem 3rem 0.6rem 0;
+}
+.rtl .all-proposals .pro-coulmn.pro-title span.name {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .pro-box .pro-coulmn.pro-title img {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .all-proposals .pro-coulmn.pro-title span.project_name {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.rtl .profile-card .profile-cardmeta a {
+    right: auto;
+    left: 0;
+}
+.rtl .profile-card .profile-cardmeta .profile-name {
+    padding-right: 0;
+    padding-left: 20%;
+}
+.rtl .cardmeta-footer .profile-details li i {
+    margin-right: 0;
+    float: right;
+    margin-left: 15px;
+}
+.rtl .main-panel .form-group .mdi-target {
+    right: auto;
+    left: 20px;
+}
+.rtl .project-attachments .pretty {
+    float: left;
+}
+.rtl .profile h4 .fa-check {
+    margin-left: 0;
+    margin-right: 5px;
+}
+.rtl .remote-location-box .pretty {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .pretty.p-switch .state::before { 
+	left:0;
+}
+.rtl .content-wrapper .upload-btn-wrapper input[type="file"] {
+    left: auto;
+    right: 0;
+}
+.rtl .attachments .attachment-data a {
+    right: auto;
+    left: 2%;
+}
+.rtl .attachments img {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl #project_form button.btn-theme {
+    float: left;
+}
+.rtl .pro-meta-box .pro-meta i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .dropdown-item {
+    text-align: right;
+}
+.rtl .dropdown-menu.dropdown-menu-right a .profile-img img {
+    width: 40px;
+    border-radius: 50%;
+    margin-right: 0;
+    box-shadow: 0 9.5px 12.7px 0 rgba(0,0,0,.05);
+    margin-left: 10px;
+}
+.rtl .navbar .navbar-menu-wrapper .navbar-nav .nav-item.dropdown .navbar-dropdown .dropdown-item.wallet-contanier span i {
+	-webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.rtl .pro-meta-box .pro-meta {
+    margin-right: 0;
+    margin-left: 10px;
+}
+.rtl .deposit-box .depoist-header .icon {
+    float: right;
+    margin-right: 0;
+    margin-left: 15px;
+}
+.rtl .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .nav-link img {
+    float: right;
+}
+.rtl .navbar .navbar-menu-wrapper .navbar-nav .nav-item.nav-profile .dropdown-toggle::after {
+    right: auto;
+    left: -16px;
+}
+.rtl .pro-box .pro-coulmn a.btn i {
+    margin-right: 0;
+    margin-left: 5px;
+}
+.rtl .addon-meta {
+    padding-left: 0;
+    padding-right: 35px;
+}
+.rtl .side-addons .addon-box .p-default {
+    margin-right: 0;
+    float: right;
+    margin-left: 10px;
+}
+.rtl .side-faqs .faqs-wrapper .faqs-box ul {
+    float: left;
+}
+.rtl .side-faqs .faqs-wrapper .faqs-box ul li {
+    margin-left: 0;
+    margin-right: 10px;
+}
+.rtl .youtube_field_wrapper .yt_url_remove {
+    right: auto;
+    left: 0;
+}
+.rtl .main-panel .inline-options .pretty {
+    float: left;
+    margin-right: 0;
+}
+.rtl .btn-to-top {
+    right: auto;
+    left: 30px;
+}
+.rtl .skills_wrapper .remove_button, .rtl .award_wrapper .remove_button, .rtl .project_wrapper .remove_button, .rtl .expe_wrapper .remove_button, .rtl .edu_wrapper .remove_button {
+    right: auto;
+    left: 0;
+}
+.rtl .expe_wrapper .fa-arrows, .rtl .edu_wrapper .fa-arrows {
+    left: auto;
+    right: 15px;
+}
+.rtl .info-box i {
+    float: right;
+    margin-right: 0;
+    margin-left: 20px;
+}
