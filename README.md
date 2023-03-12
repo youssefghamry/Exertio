@@ -19,6 +19,7 @@ We have developed the Exertio Theme using excellent code quality and design need
 
 
 ## Some project's views on devices
+<video controls src="https://youtu.be/lgyOc1XR2og">
 
 
   <img src="https://raw.githubusercontent.com/youssefghamry/Exertio/main/img/1.png">
