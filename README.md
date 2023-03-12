@@ -17,6 +17,9 @@ Exertio is a fully-featured and super powerful Marketplace WordPress theme espec
 
 We have developed the Exertio Theme using excellent code quality and design needs. Our team has designed and developed this theme using market research to make it compatible with the users who are looking for the best marketplace website. It creates the best user experience for the end-users.
 
+## Watch an explanatory video
+https://youtu.be/7DOWXKwanCA
+
 
 ## Some project's views on devices
 
