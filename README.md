@@ -21,13 +21,8 @@ We have developed the Exertio Theme using excellent code quality and design need
 ## Some project's views on devices
 
 
-
-
-(src/assets/docs-images/finnkino-user-management-laptop.png)
-
-(src/assets/docs-images/finnkino-movie-management-laptop.png)
-
-
+  <img src="https://raw.githubusercontent.com/youssefghamry/Exertio/main/img/1.png">
+  <img src="https://raw.githubusercontent.com/youssefghamry/Exertio/main/img/2.png">
 
 
 
