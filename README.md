@@ -19,8 +19,7 @@ We have developed the Exertio Theme using excellent code quality and design need
 
 
 ## Some project's views on devices
-<video controls src="https://youtu.be/lgyOc1XR2og">
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lgyOc1XR2og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
   <img src="https://raw.githubusercontent.com/youssefghamry/Exertio/main/img/1.png">
   <img src="https://raw.githubusercontent.com/youssefghamry/Exertio/main/img/2.png">
